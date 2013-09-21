@@ -2,6 +2,7 @@ package edu.yildiz.nlp.sequence.tagger.features;
 
 import cc.mallet.pipe.*;
 import cc.mallet.pipe.tsf.*;
+import edu.yildiz.nlp.sequence.tagger.parsers.Wiki2TokenSequence;
 
 import java.util.regex.Pattern;
 
@@ -30,7 +31,8 @@ public class InfoFeatureFactory extends CompositeFeatureFactory {
     public void buildSpecific(){
         _featurePipeline.addPipes(new Pipe [] {
         //Inputları alıp featureları ayırıyor.
-        new SimpleTaggerSentence2TokenSequence(),
+        //new SimpleTaggerSentence2TokenSequence(),
+         new Wiki2TokenSequence(),
         //(YIS-CRF-01)
         new RegexMatches("STARTCAPITALIZE", Pattern.compile("^"+FC.CAPS+".*")),
         //(YIS-CRF-02)
@@ -74,7 +76,13 @@ public class InfoFeatureFactory extends CompositeFeatureFactory {
                 new RegexMatches("ISPUNCT", Pattern.compile("[`~!@#$%^&*()-=_+\\[\\]\\\\{}|;\':\\\",./<>?]+")),
               new RegexMatches("HAS_QUOTE", Pattern.compile(".*'.*")),
                 new RegexMatches("HAS_SLASH", Pattern.compile(".*/.*")),
+                new RegexMatches("START_MINUS", Pattern.compile("-.*")),
+                new RegexMatches("START_PLUS", Pattern.compile("\\+.*")),
+                new RegexMatches("END_PERCENT", Pattern.compile(".*%")),
                   /* Make the word a feature. */
+
+
+                new TokenSequenceLowercase(),
                 new TokenText("WORD="),
 
                 new TokenTextCharSuffix("SUFFIX2=",2),
@@ -87,8 +95,12 @@ public class InfoFeatureFactory extends CompositeFeatureFactory {
 
                   /* FeatureInWindow features. */
                 //Burayı duşun
-                new FeaturesInWindow("WINDOW=",-1,5,
-                        Pattern.compile("WORD=.*|SUFFIX.*|PREFIX.*|[A-Z]+"),true),
+                /*
+                new FeaturesInWindow("WINDOW=",-5,5,
+                Pattern.compile("WORD=.*|SUFFIX.*|PREFIX.*|DC=.*|WC=.*|BWC=.*|[A-Z]+"),true), */
+                new FeaturesInWindow("WINDOW=",-5,5,
+                        Pattern.compile("WORD=.*|SUFFIX.*|PREFIX.*|DC=.*|WC=.*|BWC=.*"),true),
+
         /*
         int[][] conjunctions = new int[2][];
         conjunctions[0] = new int[] { -2,-1 };
@@ -98,9 +110,7 @@ public class InfoFeatureFactory extends CompositeFeatureFactory {
 
 
 
-       new RegexMatches("START_MINUS", Pattern.compile("-.*")),
-        new RegexMatches("START_PLUS", Pattern.compile("\\+.*")),
-      new RegexMatches("END_PERCENT", Pattern.compile(".*%")),
+
 
                 //Inputları ve targetları yazdırıyor.
                 new PrintInputAndTarget(),

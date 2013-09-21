@@ -56,6 +56,7 @@ import cc.mallet.types.*;
 
                 //                      transform
                 word = doDigitalCollapse(word);
+                if (word!=null)
                 token.setFeatureValue("DC=" + word, 1);
 
                 wc = doWordClass(wc);
@@ -66,7 +67,6 @@ import cc.mallet.types.*;
 
                 String ld = originWord.toLowerCase();
                 token.setFeatureValue("LC=" + ld, 1);
-
 
                 //                      finish one token line
                 if (isTargetProcessing())
@@ -107,25 +107,22 @@ import cc.mallet.types.*;
 
         private String doDigitalCollapse(String word) {
 
-            if (word.matches("19\\d\\d"))
-                word = "<YEAR>";
-            else if (word.matches("19\\d\\ds"))
-                word = "<YEARDECADE>";
-            else if (word.matches("19\\d\\d-\\d+"))
-                word = "<YEARSPAN>";
+            if (word.matches("(19|20)\\d\\d"))
+                return "<YEAR>";
+            else if (word.matches("(19|20)\\d\\ds"))
+                return  "<YEARDECADE>";
+            else if (word.matches("(19|20)\\d\\d-\\d+"))
+                return "<YEARSPAN>";
             else if (word.matches("\\d+\\\\/\\d"))
-                word = "<FRACTION>";
+                return "<FRACTION>";
             else if (word.matches("\\d[\\d,\\.]*"))
-                word = "<DIGITS>";
-            else if (word.matches("19\\d\\d-\\d\\d-\\d--d"))
-                word = "<DATELINEDATE>";
-            else if (word.matches("19\\d\\d-\\d\\d-\\d\\d"))
-                word = "<DATELINEDATE>";
-            else if (word.matches(".*-led"))
-                word = "<LED>";
-            else if (word.matches(".*-sponsored"))
-                word = "<LED>";
-            return word;
+                return "<DIGITS>";
+            else if (word.matches("(19|20)\\d\\d-\\d\\d-\\d--d"))
+                return "<DATELINEDATE>";
+            else if (word.matches("(19|20)\\d\\d-\\d\\d-\\d\\d"))
+                return "<DATELINEDATE>";
+
+            return null;
 
         }
 }

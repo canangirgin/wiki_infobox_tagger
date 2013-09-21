@@ -25,7 +25,7 @@ public class WikiRelationTagger {
     
     if(commandLine.hasOption("help") || commandLine.getOptions().length == 0) {
       HelpFormatter formatter = new HelpFormatter();
-      formatter.printHelp( "NamedEntityTagger", options);
+      formatter.printHelp( "WikiTagger", options);
       System.exit(-1);
     }
     if(commandLine.hasOption("model") == false) 
