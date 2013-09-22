@@ -45,7 +45,6 @@ public class BasicNERFeatureFactory extends CompositeFeatureFactory {
         new RegexMatches("CAPITALIZED", Pattern.compile (FC.CAPS+FC.LOW+"*")),
         new RegexMatches("ALLCAPS", Pattern.compile (FC.CAPS+"+")),
         new RegexMatches("MIXEDCAPS", Pattern.compile ("[A-Z][a-z]+[A-Z][A-Za-z]*")),
-
         new RegexMatches("CONTAINSDIGITS", Pattern.compile (".*[0-9].*")),
         new RegexMatches("SINGLEDIGITS", Pattern.compile ("[0-9]")),
         new RegexMatches("DOUBLEDIGITS", Pattern.compile ("[0-9][0-9]")),

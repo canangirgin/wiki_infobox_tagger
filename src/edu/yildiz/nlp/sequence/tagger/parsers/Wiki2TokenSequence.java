@@ -43,8 +43,15 @@ import cc.mallet.types.*;
                 String wc = word;
                 String bwc = word;
                 String originWord = word;
+                String label="";
+                if  (iFeatsLength==1)
+                {
+                    label =  "[O]";
+                } else
+                {
+                    label = features[iFeatsLength -1];
+                }
 
-                String label = features[iFeatsLength -1];
                 Token token = new Token(word);
                 token.setFeatureValue("W=" + word, 1);
 

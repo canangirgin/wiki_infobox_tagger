@@ -25,12 +25,12 @@ O O O
  */
 
 
-import java.util.regex.*;
-
 import cc.mallet.extract.StringSpan;
 import cc.mallet.extract.StringTokenization;
-import cc.mallet.pipe.*;
+import cc.mallet.pipe.Pipe;
 import cc.mallet.types.*;
+
+import java.util.regex.Pattern;
 
 /**
  * Reads a data file in CoNLL 2003 format, and makes some simple
@@ -60,8 +60,8 @@ public class TokenizerPipe extends Pipe
 
   boolean saveSource = true;
   boolean doConjunctions = false;
-  boolean doTags = true;
-  boolean doPhrases = true;
+  boolean doTags = false;
+  boolean doPhrases = false;
   boolean doSpelling = false;
   boolean doDigitCollapses = true;
   boolean doDowncasing = false;
@@ -126,7 +126,13 @@ public class TokenizerPipe extends Pipe
           word = features[fieldIdx++]; // .toLowerCase();
           if (doTags) tag = features[fieldIdx++];
           if (doPhrases) phrase = features[fieldIdx++];
-          if (isTargetProcessing ()) label = features[fieldIdx++];
+          if (isTargetProcessing ())
+          {
+              if (features.length==1)
+                  label= "[O]";
+              else
+              label = features[fieldIdx++];
+          }
         } catch (ArrayIndexOutOfBoundsException e) {
           throw new IllegalArgumentException ("Invalid line "+tokens[i]+" : expected word "
               + (doTags ? ", tag" : "")

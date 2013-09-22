@@ -36,6 +36,8 @@ public class SequenceLearnerOptions extends HashMap<String, Object>{
     put(TRAIN_RATIO, new Double(1.0));
     put(ORDERS, "0,1");
     put(DEFAULT_LABEL, "O");
+    //put(FEATURE_FACTORY, "edu.yildiz.nlp.sequence.tagger.features.BasicNERFeatureFactory");
+    //put(AUX_FEATURE_FACTORY, "edu.yildiz.nlp.sequence.tagger.features.BasicNERFeatureFactory");
     put(FEATURE_FACTORY, "edu.yildiz.nlp.sequence.tagger.features.InfoFeatureFactory");
     put(AUX_FEATURE_FACTORY, "edu.yildiz.nlp.sequence.tagger.features.InfoFeatureFactory");
     put(AUX_TRAIN_RATIO, new Double(1.0));

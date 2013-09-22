@@ -98,7 +98,7 @@ public class InfoFeatureFactory extends CompositeFeatureFactory {
                 /*
                 new FeaturesInWindow("WINDOW=",-5,5,
                 Pattern.compile("WORD=.*|SUFFIX.*|PREFIX.*|DC=.*|WC=.*|BWC=.*|[A-Z]+"),true), */
-                new FeaturesInWindow("WINDOW=",-5,5,
+                new FeaturesInWindow("WINDOW=",-5,3,
                         Pattern.compile("WORD=.*|SUFFIX.*|PREFIX.*|DC=.*|WC=.*|BWC=.*"),true),
 
         /*
