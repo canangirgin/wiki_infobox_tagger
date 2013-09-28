@@ -4,7 +4,10 @@ package edu.yildiz.nlp.sequence.tagger.parsers;
 
 import cc.mallet.types.Instance;
 import edu.yildiz.nlp.sequence.tagger.CRFSequenceLearner;
+import org.apache.commons.io.FileUtils;
 
+import java.io.File;
+import java.io.IOException;
 import java.io.LineNumberReader;
 import java.util.Iterator;
 import java.util.regex.Pattern;
@@ -31,13 +34,21 @@ public class WikiLineGroupIterator implements Iterator<Instance>
 
     public WikiLineGroupIterator (String input, Pattern lineBoundaryRegex, boolean skipBoundary)
     {
+        initialize(input, lineBoundaryRegex, skipBoundary) ;
+    }
+
+    public WikiLineGroupIterator (File file, Pattern lineBoundaryRegex, boolean skipBoundary) throws IOException {
+        String str = FileUtils.readFileToString(file);
+        initialize(str, lineBoundaryRegex, skipBoundary);
+    }
+    private void initialize(String input, Pattern lineBoundaryRegex, boolean skipBoundary)
+    {
         inputArray=input.split(" ");
         CRFSequenceLearner.inputArray= new  String[input.split("\n").length][];
         this.lineBoundaryRegex = lineBoundaryRegex;
         this.skipBoundary = skipBoundary;
         setNextLineGroup();
     }
-
     public String peekLineGroup () {
         return nextLineGroup;
     }

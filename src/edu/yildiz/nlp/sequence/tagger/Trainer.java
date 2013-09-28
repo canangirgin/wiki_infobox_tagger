@@ -4,7 +4,9 @@ import cc.mallet.pipe.Pipe;
 import cc.mallet.pipe.iterator.LineGroupIterator;
 import cc.mallet.types.InstanceList;
 import edu.yildiz.nlp.sequence.tagger.features.FeatureFactory;
+import edu.yildiz.nlp.sequence.tagger.parsers.WikiLineGroupIterator;
 
+import java.io.File;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.PrintWriter;
@@ -74,7 +76,7 @@ public class Trainer {
     // add default label
     InstanceList trainingData = new InstanceList(p);
     trainingData.addThruPipe(
-        new LineGroupIterator( new FileReader(trainingFileName),
+        new WikiLineGroupIterator( new File(trainingFileName),
             Pattern.compile("^\\s*$"), true));
     p.getTargetAlphabet().lookupIndex(defaultLabel);
     p.setTargetProcessing(true);

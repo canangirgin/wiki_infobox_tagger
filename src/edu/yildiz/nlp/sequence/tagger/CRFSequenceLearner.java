@@ -3,7 +3,6 @@ package edu.yildiz.nlp.sequence.tagger;
 import cc.mallet.fst.*;
 import cc.mallet.optimize.Optimizable;
 import cc.mallet.pipe.Pipe;
-import cc.mallet.pipe.iterator.LineGroupIterator;
 import cc.mallet.types.InstanceList;
 import cc.mallet.types.Sequence;
 import edu.yildiz.nlp.sequence.tagger.parsers.WikiLineGroupIterator;
@@ -176,7 +175,7 @@ public class CRFSequenceLearner implements SequenceLearner {
         if(crf == null) throw new Exception("Model not trained/loaded");
         InstanceList testData = new InstanceList(crf.getInputPipe());
         testData.addThruPipe(
-                new LineGroupIterator(new FileReader(testFileName),
+                new WikiLineGroupIterator(new File(testFileName),
                         Pattern.compile("^\\s*$"), true));
         return testData;
     }

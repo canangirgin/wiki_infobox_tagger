@@ -12,6 +12,7 @@ import cc.mallet.types.*;
  */
 
     public class Wiki2TokenSequence extends Pipe {
+    int errorCount=0;
         public Wiki2TokenSequence() {
             super (new Alphabet(), new LabelAlphabet());
         }
@@ -21,7 +22,6 @@ import cc.mallet.types.*;
 
             String input = (String) carrier.getData();
             String[] tokenLines = input.split("\n");
-
             LabelAlphabet labels;
             LabelSequence target = null;
             if (isTargetProcessing())
@@ -30,35 +30,36 @@ import cc.mallet.types.*;
                 target = new LabelSequence (labels, tokenLines.length);
             }
 
-
             TokenSequence data = new TokenSequence(tokenLines.length);
             for(int i=0; i< tokenLines.length; i++){
                 String line = tokenLines[i];
                 System.out.println(line);
                 String[] features = line.split("\\s+");
+                String label="";
+                if (features.length>0)
+                {
+                    String word = features[0];
+                if (word.contains("<ENAMEX_TYPE="))
+                {
+                    try{
+                    label = word.substring(0,word.indexOf("\">")+2);
+                word=word.substring(word.indexOf("\">")+2,word.indexOf("</"));
+                    }catch(Exception ex)
+                    {
+                        errorCount++;
+                        System.out.println("ERROR-"+line);
+                        continue;
+                    }
+                } else
+                {
+                    label =  "<ENAMEX TYPE=\"O\">";
+                }
 
-                int iFeatsLength = features.length;
-                String word = features[0];
                 String wc = word;
                 String bwc = word;
                 String originWord = word;
-                String label="";
-                if  (iFeatsLength==1)
-                {
-                    label =  "[O]";
-                } else
-                {
-                    label = features[iFeatsLength -1];
-                }
-
                 Token token = new Token(word);
                 token.setFeatureValue("W=" + word, 1);
-
-//                      preprocessing
-                for (int j =1; j< iFeatsLength -1; j++ ){
-                    String ftName = "PPF-" + Integer.toString(j) + ":" + features[j];
-                    token.setFeatureValue(ftName, 1);
-                }
 
                 //                      transform
                 word = doDigitalCollapse(word);
@@ -81,8 +82,10 @@ import cc.mallet.types.*;
                 }
 
                 data.add(token);
+                }
 
             }
+
             carrier.setData(data);
             if (isTargetProcessing())
                 carrier.setTarget(target);

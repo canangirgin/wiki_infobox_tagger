@@ -16,7 +16,7 @@ public class WikiOutputCallback implements OutputCallback {
         StringBuffer buf = new StringBuffer();
         buf.append(input[i]).append(" ");
         buf.append(output.get(i));
-        if (output.get(i)!= "[0]")
+        if (output.get(i)!= "<ENAMEX TYPE=\"O\">")
         CRFSequenceLearner.resultSet.add(new ResultSet(""+input[i],""+output.get(i)));
         System.out.println(buf.toString());
     }

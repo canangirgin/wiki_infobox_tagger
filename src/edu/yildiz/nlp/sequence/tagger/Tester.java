@@ -1,10 +1,10 @@
 package edu.yildiz.nlp.sequence.tagger;
 
 import cc.mallet.pipe.Pipe;
-import cc.mallet.pipe.iterator.LineGroupIterator;
 import cc.mallet.types.InstanceList;
+import edu.yildiz.nlp.sequence.tagger.parsers.WikiLineGroupIterator;
 
-import java.io.FileReader;
+import java.io.File;
 import java.util.regex.Pattern;
 
 
@@ -51,7 +51,7 @@ public class Tester {
   private InstanceList loadTestData(Pipe inputPipe, String testFileName) throws Exception {
     InstanceList testData = new InstanceList(inputPipe);
     testData.addThruPipe(
-        new LineGroupIterator(new FileReader(testFileName),
+        new WikiLineGroupIterator(new File(testFileName),
           Pattern.compile("^\\s*$"), true));
     return testData;
   }
