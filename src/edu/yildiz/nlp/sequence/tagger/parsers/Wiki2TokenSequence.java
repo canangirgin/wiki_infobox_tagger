@@ -52,7 +52,7 @@ import cc.mallet.types.*;
                     }
                 } else
                 {
-                    label =  "<ENAMEX TYPE=\"O\">";
+                    label =  "<ENAMEX_TYPE=\"O\">";
                 }
 
                 String wc = word;

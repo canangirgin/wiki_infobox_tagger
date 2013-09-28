@@ -194,7 +194,7 @@ public class CRFSequenceLearner implements SequenceLearner {
         for (int i = 0; i < testData.size(); i++) {
             Sequence input = (Sequence)testData.get(i).getData();
             Sequence output = crf.transduce(input);
-            outputCallback.process(input, output);
+            outputCallback.process(inputArray[i], output);
         }
     }
   /**
