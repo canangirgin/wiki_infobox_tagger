@@ -3,14 +3,12 @@ package edu.yildiz.nlp.sequence.tagger;
 import cc.mallet.fst.*;
 import cc.mallet.optimize.Optimizable;
 import cc.mallet.pipe.Pipe;
+import cc.mallet.pipe.iterator.LineGroupIterator;
 import cc.mallet.types.InstanceList;
 import cc.mallet.types.Sequence;
 import edu.yildiz.nlp.sequence.tagger.parsers.WikiLineGroupIterator;
 
-import java.io.FileInputStream;
-import java.io.FileOutputStream;
-import java.io.ObjectInputStream;
-import java.io.ObjectOutputStream;
+import java.io.*;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
@@ -174,27 +172,32 @@ public class CRFSequenceLearner implements SequenceLearner {
     return testData;
   }
 
-
-
-    /*
-    private InstanceList loadTestData(String testFileName) throws Exception {
-        String test="'''Volkan Tokcan''' (d. 11 Ocak 1988 İzmir),Türk\n basketbolcudur. == Kariyeri == İlk kariyerine" ;
+    private InstanceList loadTestFile(String testFileName) throws Exception {
         if(crf == null) throw new Exception("Model not trained/loaded");
         InstanceList testData = new InstanceList(crf.getInputPipe());
         testData.addThruPipe(
-                new WikiLineGroupIterator(test, Pattern.compile("^\\s*$"), true));
+                new LineGroupIterator(new FileReader(testFileName),
+                        Pattern.compile("^\\s*$"), true));
         return testData;
-    } */
+    }
   @SuppressWarnings("unchecked")
-  public void classify(String testFileName, OutputCallback outputCallback) throws Exception {
+  public List<ResultSet> classifyString(String testFileName, OutputCallback outputCallback) throws Exception {
     InstanceList testData = loadTestData(testFileName);
     for (int i = 0; i < testData.size(); i++) {
       Sequence input = (Sequence)testData.get(i).getData();
       Sequence output = crf.transduce(input);
       outputCallback.process(inputArray[i], output);
     }
+      return resultSet;
   }
-
+    public void classify(String testFileName, OutputCallback outputCallback) throws Exception {
+        InstanceList testData = loadTestFile(testFileName);
+        for (int i = 0; i < testData.size(); i++) {
+            Sequence input = (Sequence)testData.get(i).getData();
+            Sequence output = crf.transduce(input);
+            outputCallback.process(input, output);
+        }
+    }
   /**
    * {@inheritDoc}
    */

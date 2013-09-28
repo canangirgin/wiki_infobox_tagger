@@ -52,7 +52,17 @@ public class WikiRelationTagger {
         tester.setEvaluator(sequenceEvaluator);
         tester.evaluate(commandLine.getOptionValue("test"));
       }
-      else tester.classify(commandLine.getOptionValue("test"), new WikiOutputCallback());
+      else
+          tester.classify(commandLine.getOptionValue("test"), new WikiOutputCallback());
     }
   }
+
+    private static void test(String modelFile, String testString) throws Exception {
+        CRFSequenceLearnerOptions defaultOptions = new CRFSequenceLearnerOptions();
+        CRFSequenceLearner sequenceLearner = new CRFSequenceLearner(defaultOptions);
+        Tester tester = new Tester(sequenceLearner);
+        tester.loadModel(modelFile);
+        tester.classify(testString, new WikiOutputCallback());
+    }
+
 }

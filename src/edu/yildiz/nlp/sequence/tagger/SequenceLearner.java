@@ -4,6 +4,8 @@ import cc.mallet.fst.Transducer;
 import cc.mallet.pipe.Pipe;
 import cc.mallet.types.InstanceList;
 
+import java.util.List;
+
 /**
  * Interface for sequence learning
  * @author Delip Rao
@@ -51,12 +53,14 @@ public interface SequenceLearner {
   /**
    * Classifies instances in the testFileName. For each classification result:
    * outputCallback.process() is called
+   *
    * @param testFileName
    * @param outputCallback
    * @throws Exception
    */
+
   public void classify(String testFileName, OutputCallback outputCallback) throws Exception;
-  
+  public List<ResultSet> classifyString(String testString, OutputCallback outputCallback) throws Exception;
   
   /**
    * 
