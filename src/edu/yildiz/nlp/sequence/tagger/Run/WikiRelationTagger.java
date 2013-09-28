@@ -40,19 +40,19 @@ public class WikiRelationTagger {
       trainer.train(commandLine.getOptionValue("train"));
       trainer.saveModel(commandLine.getOptionValue("model"));
     }
-    
+
     if(commandLine.hasOption("test")) {
       Tester tester = new Tester(sequenceLearner);
       tester.loadModel(commandLine.getOptionValue("model"));
       if(commandLine.hasOption("evaluate")) {
         SequenceEvaluator sequenceEvaluator = new SequenceEvaluator(
-            new String[] { "B-PER", "B-ORG", "B-LOC", "B-MISC" },
-            new String[] { "I-PER", "I-ORG", "I-LOC", "I-MISC" }
+            new String[] { "p_dogum_yer" },
+            new String[] { "p_dogum_yer" }
             );
         tester.setEvaluator(sequenceEvaluator);
         tester.evaluate(commandLine.getOptionValue("test"));
       }
-      else tester.classify(commandLine.getOptionValue("test"), new DefaultOutputCallback());
+      else tester.classify(commandLine.getOptionValue("test"), new WikiOutputCallback());
     }
   }
 }

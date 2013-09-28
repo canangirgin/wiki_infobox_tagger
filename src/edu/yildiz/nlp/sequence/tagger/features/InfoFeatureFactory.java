@@ -106,15 +106,11 @@ public class InfoFeatureFactory extends CompositeFeatureFactory {
         conjunctions[0] = new int[] { -2,-1 };
         conjunctions[1] = new int[] { 1, 2};     */
                 new OffsetConjunctions(true,Pattern.compile("WORD=.*"),
-                        new int[][]{{-1},{1},{-1,0}})  ,
+                        new int[][]{{-1},{1},{-1,0}})
 
-
-
-
-
-                //Inputları ve targetları yazdırıyor.
-                new PrintInputAndTarget(),
-                new PrintTokenSequenceFeatures()
+               //Inputları ve targetları yazdırıyor.
+                //new PrintInputAndTarget()
+               // new PrintTokenSequenceFeatures()
         });
 
     }

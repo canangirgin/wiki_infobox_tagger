@@ -35,7 +35,6 @@ import cc.mallet.types.*;
             for(int i=0; i< tokenLines.length; i++){
                 String line = tokenLines[i];
                 System.out.println(line);
-
                 String[] features = line.split("\\s+");
 
                 int iFeatsLength = features.length;
@@ -84,8 +83,6 @@ import cc.mallet.types.*;
                 data.add(token);
 
             }
-
-            //
             carrier.setData(data);
             if (isTargetProcessing())
                 carrier.setTarget(target);

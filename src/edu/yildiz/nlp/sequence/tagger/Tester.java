@@ -1,11 +1,11 @@
 package edu.yildiz.nlp.sequence.tagger;
 
-import java.io.FileReader;
-import java.util.regex.Pattern;
-
 import cc.mallet.pipe.Pipe;
 import cc.mallet.pipe.iterator.LineGroupIterator;
 import cc.mallet.types.InstanceList;
+
+import java.io.FileReader;
+import java.util.regex.Pattern;
 
 
 /**
@@ -44,7 +44,7 @@ public class Tester {
     InstanceList testData = loadTestData(_learner.getInputPipe(), testingFileName);
     _evaluator.evaluateInstanceList(_learner.getModel(), testData);
   }
-  
+
   private InstanceList loadTestData(Pipe inputPipe, String testFileName) throws Exception {
     InstanceList testData = new InstanceList(inputPipe);
     testData.addThruPipe(
@@ -52,6 +52,13 @@ public class Tester {
           Pattern.compile("^\\s*$"), true));
     return testData;
   }
-
-  
+     /*
+    private InstanceList loadTestData(Pipe inputPipe, String testFileName) throws Exception {
+       String test="'''Volkan Tokcan''' (d. 11 Ocak 1988 İzmir),Türk\n basketbolcudur. == Kariyeri == İlk kariyerine" ;
+        InstanceList testData = new InstanceList(inputPipe);
+        testData.addThruPipe(
+                new WikiLineGroupIterator(test, Pattern.compile("^\\s*$"), true));
+        return testData;
+    }
+    */
 }

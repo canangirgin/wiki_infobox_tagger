@@ -63,7 +63,7 @@ class WikiRelationTaggerUtils {
     Options options = new Options();
     options.addOption("train", true, "Location of the training file");
     options.addOption("test", true, "Location of the test file");
-    options.addOption("evaluate", false, "Used with 'test'. Performs precision recall calculation. Optional.");
+    options.addOption("evaluate", true, "Used with 'test'. Performs precision recall calculation. Optional.");
     options.addOption("model", true, "Location of the model file. Required.");
     options.addOption("iterations", true, "Maximum number of iterations to train CRF. Default INT_MAX");
     options.addOption("threads", true, "Number of threads to use for parallel training. Default 1");
