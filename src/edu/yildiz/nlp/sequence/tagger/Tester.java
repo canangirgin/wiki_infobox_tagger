@@ -31,7 +31,7 @@ public class Tester {
   }
 
   public void classifyText(String testString, OutputCallback outputCallback) throws Exception {
-        _learner.classify(testString, outputCallback);
+        _learner.classifyText(testString, outputCallback);
     }
   public void setEvaluator(SequenceEvaluator evaluator) {
     _evaluator = evaluator;

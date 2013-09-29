@@ -8,8 +8,8 @@ package edu.yildiz.nlp.sequence.tagger;
  * To change this template use File | Settings | File Templates.
  */
 public class ResultSet {
-    String word;
-    String label;
+    public String word;
+    public String label;
     public ResultSet(String word, String label) {
         this.word = word;
         this.label = label;

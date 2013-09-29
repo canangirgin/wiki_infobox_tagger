@@ -3,6 +3,9 @@ package edu.yildiz.nlp.sequence.tagger.Run;
 import edu.yildiz.nlp.sequence.tagger.*;
 import org.apache.commons.cli.*;
 
+import java.util.ArrayList;
+import java.util.List;
+
 
 /**
  * Named entity tagger
@@ -14,6 +17,7 @@ public class WikiRelationTagger {
   /**
    * @param args
    */
+  static Tester tester;
   public static void main(String[] args) throws Exception {
     CommandLineParser parser = new GnuParser();
     Options options = WikiRelationTaggerUtils.buildOptions();
@@ -57,12 +61,16 @@ public class WikiRelationTagger {
     }
   }
 
-    private static void test(String modelFile, String testString) throws Exception {
+    public static List<ResultSet> test(String testString) throws Exception {
+        CRFSequenceLearner.resultSet= new ArrayList<ResultSet>();
+        tester.classifyText(testString, new WikiOutputCallback());
+        return CRFSequenceLearner.resultSet;
+    }
+    public static void LoadModel(String modelFile) throws Exception {
         CRFSequenceLearnerOptions defaultOptions = new CRFSequenceLearnerOptions();
         CRFSequenceLearner sequenceLearner = new CRFSequenceLearner(defaultOptions);
-        Tester tester = new Tester(sequenceLearner);
+        tester = new Tester(sequenceLearner);
         tester.loadModel(modelFile);
-        tester.classify(testString, new WikiOutputCallback());
     }
 
 }

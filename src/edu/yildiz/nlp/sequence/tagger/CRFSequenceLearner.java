@@ -25,6 +25,9 @@ public class CRFSequenceLearner implements SequenceLearner {
   private CRFSequenceLearnerOptions _learnerOptions = null;
   public static String[][] inputArray;
   public static List<ResultSet> resultSet= new ArrayList<ResultSet>();
+  public static ResultSet[] resultSetDeneme;
+  public static String[] inputArrayDeneme;
+  public static int outCount;
 
   public CRFSequenceLearner(CRFSequenceLearnerOptions learnerOptions) throws Exception{
     _learnerOptions = learnerOptions;
@@ -160,19 +163,20 @@ public class CRFSequenceLearner implements SequenceLearner {
     learnerInitialized = true;
   }
 
-  private InstanceList loadTestData(String testString) throws Exception {
-      testString="'''Volkan Tokcan''' (d. 11 Ocak 1988 İzmir),\n Türk basketbolcudur.\n == Kariyeri == İlk\n kariyerine (d. 11 Ocak 1988 İzmir) Aliağa" ;
+  private InstanceList loadTestData(String testText) throws Exception {
+    // testText="'''Volkan Tokcan''' (d. 11 Ocak 1988 İzmir),\n Türk basketbolcudur.\n == Kariyeri == İlk\n kariyerine (d. 11 Ocak 1988 İzmir) Aliağa" ;
       if(crf == null) throw new Exception("Model not trained/loaded");
     InstanceList testData = new InstanceList(crf.getInputPipe());
     testData.addThruPipe(
            //new LineGroupIterator(new FileReader(testFileName),
-                    new WikiLineGroupIterator(testString,
+                    new WikiLineGroupIterator(testText,
                     Pattern.compile("^\\s*$"), true));
     return testData;
   }
 
     private InstanceList loadTestFile(String testFileName) throws Exception {
         if(crf == null) throw new Exception("Model not trained/loaded");
+
         InstanceList testData = new InstanceList(crf.getInputPipe());
         testData.addThruPipe(
                 new WikiLineGroupIterator(new File(testFileName),
@@ -180,22 +184,25 @@ public class CRFSequenceLearner implements SequenceLearner {
         return testData;
     }
   @SuppressWarnings("unchecked")
-  public List<ResultSet> classifyString(String testFileName, OutputCallback outputCallback) throws Exception {
-    InstanceList testData = loadTestData(testFileName);
+  public List<ResultSet> classifyText(String testText, OutputCallback outputCallback) throws Exception {
+      outCount = 0;
+      InstanceList testData = loadTestData(testText);
     for (int i = 0; i < testData.size(); i++) {
       Sequence input = (Sequence)testData.get(i).getData();
       Sequence output = crf.transduce(input);
-      outputCallback.process(inputArray[i], output);
+      outputCallback.process(output);
     }
       return resultSet;
   }
     public void classify(String testFileName, OutputCallback outputCallback) throws Exception {
+        outCount = 0;
         InstanceList testData = loadTestFile(testFileName);
         for (int i = 0; i < testData.size(); i++) {
             Sequence input = (Sequence)testData.get(i).getData();
             Sequence output = crf.transduce(input);
-            outputCallback.process(inputArray[i], output);
+            outputCallback.process( output);
         }
+        outputCallback.print();
     }
   /**
    * {@inheritDoc}

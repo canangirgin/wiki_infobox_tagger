@@ -7,25 +7,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3c64d3f8-1ed5-47a9-ad08-e3293b405550" name="Default" comment="">
+      <change type="DELETED" beforePath="C:\Users\hs\repo\wiki-extractor\nouncrf" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/CRFSequenceLearner.java" afterPath="$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/CRFSequenceLearner.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/parsers/Wiki2TokenSequence.java" afterPath="$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/parsers/Wiki2TokenSequence.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/OutputCallback.java" afterPath="$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/OutputCallback.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/ResultSet.java" afterPath="$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/ResultSet.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/SequenceLearner.java" afterPath="$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/SequenceLearner.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/Tester.java" afterPath="$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/Tester.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/parsers/WikiLineGroupIterator.java" afterPath="$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/parsers/WikiLineGroupIterator.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/WikiOutputCallback.java" afterPath="$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/WikiOutputCallback.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/Run/WikiRelationTagger.java" afterPath="$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/Run/WikiRelationTagger.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stest" afterPath="$PROJECT_DIR$/stest" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="sequence-tagger.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="3c64d3f8-1ed5-47a9-ad08-e3293b405550" time="1380386924294" ignored="false" />
-    <file path="/fragment.java" changelist="3c64d3f8-1ed5-47a9-ad08-e3293b405550" time="1380384769601" ignored="false" />
+    <file path="/Dummy.txt" changelist="3c64d3f8-1ed5-47a9-ad08-e3293b405550" time="1380391566597" ignored="false" />
+    <file path="/fragment.java" changelist="3c64d3f8-1ed5-47a9-ad08-e3293b405550" time="1380432932414" ignored="false" />
     <file path="$PROJECT_DIR$/../WikiInfoboxExtractor/src/main/java/crf/Tagger.java" changelist="3c64d3f8-1ed5-47a9-ad08-e3293b405550" time="1378721807279" ignored="false" />
     <file path="/Tagger.java" changelist="3c64d3f8-1ed5-47a9-ad08-e3293b405550" time="1378720564163" ignored="false" />
     <file path="$PROJECT_DIR$/../WikiInfoboxExtractor/src/main/java/crf/CRFSequenceLearnerOptions.java" changelist="3c64d3f8-1ed5-47a9-ad08-e3293b405550" time="1378720222351" ignored="false" />
     <file path="$PROJECT_DIR$/../WikiInfoboxExtractor/src/main/java/crf/SequenceLearnerOptions.java" changelist="3c64d3f8-1ed5-47a9-ad08-e3293b405550" time="1378720242180" ignored="false" />
     <file path="$PROJECT_DIR$/../WikiInfoboxExtractor/src/main/java/crf/SequenceLearner.java" changelist="3c64d3f8-1ed5-47a9-ad08-e3293b405550" time="1378720618045" ignored="false" />
     <file path="$PROJECT_DIR$/../WikiInfoboxExtractor/src/main/java/crf/CRFSequenceLearner.java" changelist="3c64d3f8-1ed5-47a9-ad08-e3293b405550" time="1378720654471" ignored="false" />
-    <file path="/a.dummy" changelist="3c64d3f8-1ed5-47a9-ad08-e3293b405550" time="1380387117998" ignored="false" />
+    <file path="/a.dummy" changelist="3c64d3f8-1ed5-47a9-ad08-e3293b405550" time="1380404741186" ignored="false" />
     <file path="$PROJECT_DIR$/../WikiInfoboxExtractor/src/main/java/crf/features/InfoFeatureFactory.java" changelist="3c64d3f8-1ed5-47a9-ad08-e3293b405550" time="1378721855138" ignored="false" />
     <file path="/InfoFeatureFactory.java" changelist="3c64d3f8-1ed5-47a9-ad08-e3293b405550" time="1379767476831" ignored="false" />
-    <file path="/WikiRelationTagger.java" changelist="3c64d3f8-1ed5-47a9-ad08-e3293b405550" time="1380371734343" ignored="false" />
+    <file path="/WikiRelationTagger.java" changelist="3c64d3f8-1ed5-47a9-ad08-e3293b405550" time="1380428889366" ignored="false" />
     <file path="/InBracket.java" changelist="3c64d3f8-1ed5-47a9-ad08-e3293b405550" time="1378726424113" ignored="false" />
     <file path="/sample" changelist="3c64d3f8-1ed5-47a9-ad08-e3293b405550" time="1379764326261" ignored="false" />
     <file path="/stest" changelist="3c64d3f8-1ed5-47a9-ad08-e3293b405550" time="1379924369860" ignored="false" />
@@ -33,20 +40,27 @@
     <file path="/BasicNERFeatureFactory.java" changelist="3c64d3f8-1ed5-47a9-ad08-e3293b405550" time="1379700361638" ignored="false" />
     <file path="/Wiki2TokenSequence.java" changelist="3c64d3f8-1ed5-47a9-ad08-e3293b405550" time="1380385863842" ignored="false" />
     <file path="/TokenizerPipe.java" changelist="3c64d3f8-1ed5-47a9-ad08-e3293b405550" time="1379863332835" ignored="false" />
-    <file path="$PROJECT_DIR$/../mwdumper/.idea/workspace.xml" changelist="3c64d3f8-1ed5-47a9-ad08-e3293b405550" time="1380386995302" ignored="false" />
+    <file path="$PROJECT_DIR$/../mwdumper/.idea/workspace.xml" changelist="3c64d3f8-1ed5-47a9-ad08-e3293b405550" time="1380394246110" ignored="false" />
     <file path="/WikiRelationTaggerUtils.java" changelist="3c64d3f8-1ed5-47a9-ad08-e3293b405550" time="1379875914741" ignored="false" />
     <file path="/Trainer.java" changelist="3c64d3f8-1ed5-47a9-ad08-e3293b405550" time="1380380464134" ignored="false" />
-    <file path="/WikiLineGroupIterator.java" changelist="3c64d3f8-1ed5-47a9-ad08-e3293b405550" time="1380383821842" ignored="false" />
+    <file path="/WikiLineGroupIterator.java" changelist="3c64d3f8-1ed5-47a9-ad08-e3293b405550" time="1380432277312" ignored="false" />
     <file path="/Tester.java" changelist="3c64d3f8-1ed5-47a9-ad08-e3293b405550" time="1380386739120" ignored="false" />
     <file path="/DefaultOutputCallback.java" changelist="3c64d3f8-1ed5-47a9-ad08-e3293b405550" time="1380370067158" ignored="false" />
     <file path="$PROJECT_DIR$/../mallet-2.0.7/src/cc/mallet/fst/SimpleTagger.java" changelist="3c64d3f8-1ed5-47a9-ad08-e3293b405550" time="1380366138271" ignored="false" />
-    <file path="/CRFSequenceLearner.java" changelist="3c64d3f8-1ed5-47a9-ad08-e3293b405550" time="1380372571535" ignored="false" />
-    <file path="/OutputCallback.java" changelist="3c64d3f8-1ed5-47a9-ad08-e3293b405550" time="1380367176137" ignored="false" />
-    <file path="/ResultSet.java" changelist="3c64d3f8-1ed5-47a9-ad08-e3293b405550" time="1380369797975" ignored="false" />
-    <file path="/WikiOutputCallback.java" changelist="3c64d3f8-1ed5-47a9-ad08-e3293b405550" time="1380370036984" ignored="false" />
-    <file path="/SequenceLearner.java" changelist="3c64d3f8-1ed5-47a9-ad08-e3293b405550" time="1380371820911" ignored="false" />
-    <file path="$PROJECT_DIR$/../mwdumper/src/org/mediawiki/extractor/IExtractor.java" changelist="3c64d3f8-1ed5-47a9-ad08-e3293b405550" time="1380385178988" ignored="false" />
+    <file path="/CRFSequenceLearner.java" changelist="3c64d3f8-1ed5-47a9-ad08-e3293b405550" time="1380433128385" ignored="false" />
+    <file path="/OutputCallback.java" changelist="3c64d3f8-1ed5-47a9-ad08-e3293b405550" time="1380429720952" ignored="false" />
+    <file path="/ResultSet.java" changelist="3c64d3f8-1ed5-47a9-ad08-e3293b405550" time="1380401720841" ignored="false" />
+    <file path="/WikiOutputCallback.java" changelist="3c64d3f8-1ed5-47a9-ad08-e3293b405550" time="1380433369547" ignored="false" />
+    <file path="/SequenceLearner.java" changelist="3c64d3f8-1ed5-47a9-ad08-e3293b405550" time="1380401344700" ignored="false" />
+    <file path="$PROJECT_DIR$/../mwdumper/src/org/mediawiki/extractor/IExtractor.java" changelist="3c64d3f8-1ed5-47a9-ad08-e3293b405550" time="1380391118346" ignored="false" />
     <file path="/IExtractor.java" changelist="3c64d3f8-1ed5-47a9-ad08-e3293b405550" time="1380383049354" ignored="false" />
+    <file path="$PROJECT_DIR$/../mwdumper/src/org/mediawiki/extractor/WikiEvaluator.java" changelist="3c64d3f8-1ed5-47a9-ad08-e3293b405550" time="1380394299820" ignored="false" />
+    <file path="$PROJECT_DIR$/../mwdumper/src/org/mediawiki/extractor/CRFTrainer.java" changelist="3c64d3f8-1ed5-47a9-ad08-e3293b405550" time="1380404031342" ignored="false" />
+    <file path="/WikiEvaluator.java" changelist="3c64d3f8-1ed5-47a9-ad08-e3293b405550" time="1380394297317" ignored="false" />
+    <file path="$PROJECT_DIR$/../mwdumper/src/org/mediawiki/extractor/CRFEvaluator.java" changelist="3c64d3f8-1ed5-47a9-ad08-e3293b405550" time="1380404712051" ignored="false" />
+    <file path="/CRFTrainer.java" changelist="3c64d3f8-1ed5-47a9-ad08-e3293b405550" time="1380398815980" ignored="false" />
+    <file path="/CRFEvaluator.java" changelist="3c64d3f8-1ed5-47a9-ad08-e3293b405550" time="1380404686268" ignored="false" />
+    <file path="$PROJECT_DIR$/../mwdumper/pom.xml" changelist="3c64d3f8-1ed5-47a9-ad08-e3293b405550" time="1380399734239" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +146,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/parsers/WikiLineGroupIterator.java" line="19" class="edu.yildiz.nlp.sequence.tagger.parsers.WikiLineGroupIterator" package="edu.yildiz.nlp.sequence.tagger.parsers">
+      <breakpoint url="file://$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/parsers/WikiLineGroupIterator.java" line="20" class="edu.yildiz.nlp.sequence.tagger.parsers.WikiLineGroupIterator" package="edu.yildiz.nlp.sequence.tagger.parsers">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -146,7 +160,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/parsers/WikiLineGroupIterator.java" line="13" class="WikiLineGroupIterator.java" package="">
+      <breakpoint url="file://$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/parsers/WikiLineGroupIterator.java" line="14" class="WikiLineGroupIterator.java" package="">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -160,161 +174,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/parsers/WikiLineGroupIterator.java" line="14" class="edu.yildiz.nlp.sequence.tagger.parsers.WikiLineGroupIterator" package="edu.yildiz.nlp.sequence.tagger.parsers">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/CRFSequenceLearner.java" line="187" class="edu.yildiz.nlp.sequence.tagger.CRFSequenceLearner" package="edu.yildiz.nlp.sequence.tagger">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/CRFSequenceLearner.java" line="185" class="edu.yildiz.nlp.sequence.tagger.CRFSequenceLearner" package="edu.yildiz.nlp.sequence.tagger">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/WikiOutputCallback.java" line="16" class="edu.yildiz.nlp.sequence.tagger.WikiOutputCallback" package="edu.yildiz.nlp.sequence.tagger">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/CRFSequenceLearner.java" line="184" class="edu.yildiz.nlp.sequence.tagger.CRFSequenceLearner" package="edu.yildiz.nlp.sequence.tagger">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/CRFSequenceLearner.java" line="170" class="edu.yildiz.nlp.sequence.tagger.CRFSequenceLearner" package="edu.yildiz.nlp.sequence.tagger">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/parsers/WikiLineGroupIterator.java" line="52" class="edu.yildiz.nlp.sequence.tagger.parsers.WikiLineGroupIterator" package="edu.yildiz.nlp.sequence.tagger.parsers">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/WikiOutputCallback.java" line="20" class="edu.yildiz.nlp.sequence.tagger.WikiOutputCallback" package="edu.yildiz.nlp.sequence.tagger">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/parsers/WikiLineGroupIterator.java" line="36" class="edu.yildiz.nlp.sequence.tagger.parsers.WikiLineGroupIterator" package="edu.yildiz.nlp.sequence.tagger.parsers">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/parsers/Wiki2TokenSequence.java" line="48" class="edu.yildiz.nlp.sequence.tagger.parsers.Wiki2TokenSequence" package="edu.yildiz.nlp.sequence.tagger.parsers">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/parsers/WikiLineGroupIterator.java" line="40" class="edu.yildiz.nlp.sequence.tagger.parsers.WikiLineGroupIterator" package="edu.yildiz.nlp.sequence.tagger.parsers">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/Tester.java" line="51" class="edu.yildiz.nlp.sequence.tagger.Tester" package="edu.yildiz.nlp.sequence.tagger">
+      <breakpoint url="file://$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/parsers/WikiLineGroupIterator.java" line="15" class="edu.yildiz.nlp.sequence.tagger.parsers.WikiLineGroupIterator" package="edu.yildiz.nlp.sequence.tagger.parsers">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -342,7 +202,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/WikiOutputCallback.java" line="14" class="edu.yildiz.nlp.sequence.tagger.WikiOutputCallback" package="edu.yildiz.nlp.sequence.tagger">
+      <breakpoint url="file://$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/CRFSequenceLearner.java" line="190" class="edu.yildiz.nlp.sequence.tagger.CRFSequenceLearner" package="edu.yildiz.nlp.sequence.tagger">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -356,7 +216,119 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/Run/WikiRelationTagger.java" line="55" class="edu.yildiz.nlp.sequence.tagger.Run.WikiRelationTagger" package="edu.yildiz.nlp.sequence.tagger.Run">
+      <breakpoint url="file://$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/CRFSequenceLearner.java" line="189" class="edu.yildiz.nlp.sequence.tagger.CRFSequenceLearner" package="edu.yildiz.nlp.sequence.tagger">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/CRFSequenceLearner.java" line="173" class="edu.yildiz.nlp.sequence.tagger.CRFSequenceLearner" package="edu.yildiz.nlp.sequence.tagger">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/parsers/WikiLineGroupIterator.java" line="62" class="edu.yildiz.nlp.sequence.tagger.parsers.WikiLineGroupIterator" package="edu.yildiz.nlp.sequence.tagger.parsers">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/parsers/WikiLineGroupIterator.java" line="37" class="edu.yildiz.nlp.sequence.tagger.parsers.WikiLineGroupIterator" package="edu.yildiz.nlp.sequence.tagger.parsers">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/parsers/Wiki2TokenSequence.java" line="48" class="edu.yildiz.nlp.sequence.tagger.parsers.Wiki2TokenSequence" package="edu.yildiz.nlp.sequence.tagger.parsers">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/parsers/WikiLineGroupIterator.java" line="41" class="edu.yildiz.nlp.sequence.tagger.parsers.WikiLineGroupIterator" package="edu.yildiz.nlp.sequence.tagger.parsers">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/Tester.java" line="51" class="edu.yildiz.nlp.sequence.tagger.Tester" package="edu.yildiz.nlp.sequence.tagger">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/CRFSequenceLearner.java" line="198" class="edu.yildiz.nlp.sequence.tagger.CRFSequenceLearner" package="edu.yildiz.nlp.sequence.tagger">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/Run/WikiRelationTagger.java" line="59" class="edu.yildiz.nlp.sequence.tagger.Run.WikiRelationTagger" package="edu.yildiz.nlp.sequence.tagger.Run">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -384,7 +356,77 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/CRFSequenceLearner.java" line="196" class="edu.yildiz.nlp.sequence.tagger.CRFSequenceLearner" package="edu.yildiz.nlp.sequence.tagger">
+      <breakpoint url="file://$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/CRFSequenceLearner.java" line="202" class="edu.yildiz.nlp.sequence.tagger.CRFSequenceLearner" package="edu.yildiz.nlp.sequence.tagger">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/CRFSequenceLearner.java" line="179" class="edu.yildiz.nlp.sequence.tagger.CRFSequenceLearner" package="edu.yildiz.nlp.sequence.tagger">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/CRFSequenceLearner.java" line="178" class="edu.yildiz.nlp.sequence.tagger.CRFSequenceLearner" package="edu.yildiz.nlp.sequence.tagger">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/parsers/WikiLineGroupIterator.java" line="47" class="edu.yildiz.nlp.sequence.tagger.parsers.WikiLineGroupIterator" package="edu.yildiz.nlp.sequence.tagger.parsers">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/parsers/WikiLineGroupIterator.java" line="54" class="edu.yildiz.nlp.sequence.tagger.parsers.WikiLineGroupIterator" package="edu.yildiz.nlp.sequence.tagger.parsers">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/WikiOutputCallback.java" line="22" class="edu.yildiz.nlp.sequence.tagger.WikiOutputCallback" package="edu.yildiz.nlp.sequence.tagger">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -447,11 +489,19 @@
       <file leaf-file-name="WikiOutputCallback.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/WikiOutputCallback.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="0" selection-start="795" selection-end="795" vertical-scroll-proportion="0.0">
+            <state line="0" column="10" selection-start="9" selection-end="10" vertical-scroll-proportion="-0.0">
               <folding>
                 <element signature="e#174#204#0" expanded="true" />
-                <element signature="e#657#687#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArraySequence.class" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/lib/mallet-2.0.7.jar!/cc/mallet/types/ArraySequence.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="13" selection-start="548" selection-end="548" vertical-scroll-proportion="-4.24">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -459,34 +509,7 @@
       <file leaf-file-name="WikiRelationTagger.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/Run/WikiRelationTagger.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="55" column="0" selection-start="1898" selection-end="1898" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CommandLine.class" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/lib/commons-cli-1.2.jar!/org/apache/commons/cli/CommandLine.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="28" selection-start="891" selection-end="891" vertical-scroll-proportion="-3.72">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Option.class" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/lib/commons-cli-1.2.jar!/org/apache/commons/cli/Option.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="91" column="28" selection-start="3388" selection-end="3388" vertical-scroll-proportion="-4.04">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Trainer.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/Trainer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="96" column="30" selection-start="3818" selection-end="3818" vertical-scroll-proportion="-4.64">
+            <state line="59" column="0" selection-start="1974" selection-end="1974" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -495,38 +518,56 @@
       <file leaf-file-name="Tester.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/Tester.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="0" selection-start="694" selection-end="694" vertical-scroll-proportion="0.0">
+            <state line="29" column="0" selection-start="694" selection-end="694" vertical-scroll-proportion="-3.88">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SequenceLearner.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/SequenceLearner.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="61" column="22" selection-start="1478" selection-end="1486" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CRFSequenceLearner.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="CRFSequenceLearner.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/CRFSequenceLearner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="196" column="19" selection-start="7017" selection-end="7017" vertical-scroll-proportion="0.71511626">
+            <state line="202" column="36" selection-start="7167" selection-end="7167" vertical-scroll-proportion="-11.16">
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#775#786#0" expanded="true" />
-                <element signature="e#6233#6263#0" expanded="true" />
+                <element signature="e#6347#6377#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Wiki2TokenSequence.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/parsers/Wiki2TokenSequence.java">
+      <file leaf-file-name="OutputCallback.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/OutputCallback.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="57" column="56" selection-start="1894" selection-end="1894" vertical-scroll-proportion="0.0">
+            <state line="11" column="22" selection-start="200" selection-end="200" vertical-scroll-proportion="0.32807016">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ResultSet.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/ResultSet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="11" selection-start="277" selection-end="277" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Trainer.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/Trainer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="96" column="30" selection-start="3818" selection-end="3818" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="stest" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stest">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="18" selection-start="349" selection-end="349" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -535,7 +576,7 @@
       <file leaf-file-name="WikiLineGroupIterator.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/parsers/WikiLineGroupIterator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="42" column="0" selection-start="1436" selection-end="1436" vertical-scroll-proportion="-3.88">
+            <state line="54" column="0" selection-start="1958" selection-end="1958" vertical-scroll-proportion="-3.88">
               <folding />
             </state>
           </provider>
@@ -564,17 +605,17 @@
         <option value="$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/WikiLineGroupIterator.java" />
         <option value="$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/features/InfoFeatureFactory.java" />
         <option value="$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/DefaultOutputCallback.java" />
+        <option value="$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/Trainer.java" />
+        <option value="$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/parsers/Wiki2TokenSequence.java" />
+        <option value="$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/SequenceLearner.java" />
+        <option value="$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/Tester.java" />
         <option value="$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/ResultSet.java" />
         <option value="$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/Run/WikiRelationTagger.java" />
-        <option value="$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/SequenceLearner.java" />
-        <option value="$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/OutputCallback.java" />
-        <option value="$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/Trainer.java" />
-        <option value="$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/parsers/WikiLineGroupIterator.java" />
         <option value="$PROJECT_DIR$/stest" />
-        <option value="$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/Tester.java" />
-        <option value="$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/WikiOutputCallback.java" />
-        <option value="$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/parsers/Wiki2TokenSequence.java" />
+        <option value="$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/parsers/WikiLineGroupIterator.java" />
+        <option value="$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/OutputCallback.java" />
         <option value="$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/CRFSequenceLearner.java" />
+        <option value="$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/WikiOutputCallback.java" />
       </list>
     </option>
   </component>
@@ -685,28 +726,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wiki-extractor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wiki-extractor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tagger" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="parsers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
@@ -716,6 +735,7 @@
     <property name="GenerateAntBuildDialog.generateIdeaHomeProperty" value="false" />
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="project.structure.last.edited" value="Libraries" />
+    <property name="OverrideImplement.combined" value="false" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="GenerateAntBuildDialog.generateSingleFile" value="false" />
@@ -995,18 +1015,19 @@
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.115072936" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4197731" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2884927" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.41166937" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32901135" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23252033" sideWeight="0.38411668" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16504066" sideWeight="0.4943274" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.11102107" sideWeight="0.6709887" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23252033" sideWeight="0.29983792" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30470017" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16504066" sideWeight="0.4943274" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.89141005" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" x="92" y="100" width="1092" height="576" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1077,34 +1098,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$PROJECT_DIR$/lib/mallet-2.0.7.jar!/cc/mallet/util/FileUtils.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="13" selection-start="157" selection-end="157" vertical-scroll-proportion="-3.4">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/mallet-2.0.7.jar!/cc/mallet/types/Instance.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="28" selection-start="804" selection-end="804" vertical-scroll-proportion="0.34774438">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/features/InfoFeatureFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="0" selection-start="783" selection-end="783" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.6.0_37/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1936" column="0" selection-start="73990" selection-end="73990" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/lib/mallet-2.0.7.jar!/cc/mallet/pipe/Pipe.class">
       <provider selected="true" editor-type-id="text-editor">
         <state line="78" column="18" selection-start="3607" selection-end="3607" vertical-scroll-proportion="-4.48">
@@ -1112,30 +1105,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stest">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="64" selection-start="72" selection-end="72" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/Trainer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="96" column="30" selection-start="3818" selection-end="3818" vertical-scroll-proportion="-4.64">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/parsers/Wiki2TokenSequence.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="57" column="56" selection-start="1894" selection-end="1894" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/SequenceLearner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="61" column="22" selection-start="1478" selection-end="1486" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -1154,45 +1126,93 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/features/InfoFeatureFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="49" selection-start="520" selection-end="520" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/SequenceLearner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="62" column="25" selection-start="1582" selection-end="1582" vertical-scroll-proportion="-5.44">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/Trainer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="96" column="30" selection-start="3818" selection-end="3818" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/ResultSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="11" selection-start="277" selection-end="277" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/mallet-2.0.7.jar!/cc/mallet/types/ArraySequence.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="13" selection-start="548" selection-end="548" vertical-scroll-proportion="-4.24">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/Run/WikiRelationTagger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="0" selection-start="1898" selection-end="1898" vertical-scroll-proportion="0.0">
+        <state line="59" column="0" selection-start="1974" selection-end="1974" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/Tester.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="0" selection-start="694" selection-end="694" vertical-scroll-proportion="0.0">
+        <state line="29" column="0" selection-start="694" selection-end="694" vertical-scroll-proportion="-3.88">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/parsers/WikiLineGroupIterator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="0" selection-start="1436" selection-end="1436" vertical-scroll-proportion="-3.88">
+        <state line="54" column="0" selection-start="1958" selection-end="1958" vertical-scroll-proportion="-3.88">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/WikiOutputCallback.java">
+    <entry file="file://$PROJECT_DIR$/stest">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="0" selection-start="795" selection-end="795" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#174#204#0" expanded="true" />
-            <element signature="e#657#687#0" expanded="true" />
-          </folding>
+        <state line="11" column="18" selection-start="349" selection-end="349" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/CRFSequenceLearner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="196" column="19" selection-start="7017" selection-end="7017" vertical-scroll-proportion="0.71511626">
+        <state line="202" column="36" selection-start="7167" selection-end="7167" vertical-scroll-proportion="-11.16">
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#775#786#0" expanded="true" />
-            <element signature="e#6233#6263#0" expanded="true" />
+            <element signature="e#6347#6377#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/WikiOutputCallback.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="10" selection-start="9" selection-end="10" vertical-scroll-proportion="-0.0">
+          <folding>
+            <element signature="e#174#204#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/OutputCallback.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="22" selection-start="200" selection-end="200" vertical-scroll-proportion="0.32807016">
+          <folding />
         </state>
       </provider>
     </entry>

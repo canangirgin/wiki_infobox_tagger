@@ -9,6 +9,7 @@ import cc.mallet.types.Sequence;
  */
 public interface OutputCallback {
   @SuppressWarnings("unchecked")
-  public void process(String[] input, Sequence output);
-  public void process(Sequence input, Sequence output);
+  public void process(Sequence output);
+
+  void print();
 }

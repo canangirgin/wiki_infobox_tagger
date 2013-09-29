@@ -60,7 +60,7 @@ public interface SequenceLearner {
    */
 
   public void classify(String testFileName, OutputCallback outputCallback) throws Exception;
-  public List<ResultSet> classifyString(String testString, OutputCallback outputCallback) throws Exception;
+  public List<ResultSet> classifyText(String testString, OutputCallback outputCallback) throws Exception;
   
   /**
    * 

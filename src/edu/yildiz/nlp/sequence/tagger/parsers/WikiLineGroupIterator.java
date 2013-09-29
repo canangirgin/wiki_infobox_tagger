@@ -4,6 +4,7 @@ package edu.yildiz.nlp.sequence.tagger.parsers;
 
 import cc.mallet.types.Instance;
 import edu.yildiz.nlp.sequence.tagger.CRFSequenceLearner;
+import edu.yildiz.nlp.sequence.tagger.ResultSet;
 import org.apache.commons.io.FileUtils;
 
 import java.io.File;
@@ -43,8 +44,17 @@ public class WikiLineGroupIterator implements Iterator<Instance>
     }
     private void initialize(String input, Pattern lineBoundaryRegex, boolean skipBoundary)
     {
-        inputArray=input.split(" ");
-        CRFSequenceLearner.inputArray= new  String[input.split("\n").length][];
+
+        CRFSequenceLearner.inputArrayDeneme=input.split("\\s+");
+        CRFSequenceLearner.resultSetDeneme= new ResultSet[CRFSequenceLearner.inputArrayDeneme.length];
+        for (int i=0;i<CRFSequenceLearner.inputArrayDeneme.length;i++)
+        {
+            CRFSequenceLearner.resultSetDeneme[i]= new ResultSet(CRFSequenceLearner.inputArrayDeneme[i],"");
+        }
+
+        inputArray=input.split("\\s");
+
+       // CRFSequenceLearner.inputArray= new  String[input.split("\n").length][];
         this.lineBoundaryRegex = lineBoundaryRegex;
         this.skipBoundary = skipBoundary;
         setNextLineGroup();
@@ -87,7 +97,7 @@ public class WikiLineGroupIterator implements Iterator<Instance>
 
             }
         }
-        CRFSequenceLearner.inputArray[groupIndex]=sb.toString().split("\n");
+      //  CRFSequenceLearner.inputArray[groupIndex]=sb.toString().split("\n");
         if (sb.length() == 0)
             this.nextLineGroup = null;
         else
