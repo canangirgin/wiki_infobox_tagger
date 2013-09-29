@@ -10,6 +10,7 @@ import org.apache.commons.io.FileUtils;
 import java.io.File;
 import java.io.IOException;
 import java.io.LineNumberReader;
+import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.regex.Pattern;
 
@@ -44,13 +45,9 @@ public class WikiLineGroupIterator implements Iterator<Instance>
     }
     private void initialize(String input, Pattern lineBoundaryRegex, boolean skipBoundary)
     {
-
+        CRFSequenceLearner.outCount = 0;
+        CRFSequenceLearner.resultSet= new ArrayList<ResultSet>();
         CRFSequenceLearner.inputArrayDeneme=input.split("\\s+");
-        CRFSequenceLearner.resultSetDeneme= new ResultSet[CRFSequenceLearner.inputArrayDeneme.length];
-        for (int i=0;i<CRFSequenceLearner.inputArrayDeneme.length;i++)
-        {
-            CRFSequenceLearner.resultSetDeneme[i]= new ResultSet(CRFSequenceLearner.inputArrayDeneme[i],"");
-        }
 
         inputArray=input.split("\\s");
 

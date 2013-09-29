@@ -3,7 +3,6 @@ package edu.yildiz.nlp.sequence.tagger.Run;
 import edu.yildiz.nlp.sequence.tagger.*;
 import org.apache.commons.cli.*;
 
-import java.util.ArrayList;
 import java.util.List;
 
 
@@ -62,7 +61,6 @@ public class WikiRelationTagger {
   }
 
     public static List<ResultSet> test(String testString) throws Exception {
-        CRFSequenceLearner.resultSet= new ArrayList<ResultSet>();
         tester.classifyText(testString, new WikiOutputCallback());
         return CRFSequenceLearner.resultSet;
     }

@@ -23,9 +23,7 @@ public class CRFSequenceLearner implements SequenceLearner {
   boolean learnerInitialized = false;
   CRF crf = null;
   private CRFSequenceLearnerOptions _learnerOptions = null;
-  public static String[][] inputArray;
-  public static List<ResultSet> resultSet= new ArrayList<ResultSet>();
-  public static ResultSet[] resultSetDeneme;
+  public static List<ResultSet> resultSet;
   public static String[] inputArrayDeneme;
   public static int outCount;
 
@@ -186,6 +184,7 @@ public class CRFSequenceLearner implements SequenceLearner {
   @SuppressWarnings("unchecked")
   public List<ResultSet> classifyText(String testText, OutputCallback outputCallback) throws Exception {
       outCount = 0;
+      resultSet= new ArrayList<ResultSet>();
       InstanceList testData = loadTestData(testText);
     for (int i = 0; i < testData.size(); i++) {
       Sequence input = (Sequence)testData.get(i).getData();
@@ -195,7 +194,7 @@ public class CRFSequenceLearner implements SequenceLearner {
       return resultSet;
   }
     public void classify(String testFileName, OutputCallback outputCallback) throws Exception {
-        outCount = 0;
+
         InstanceList testData = loadTestFile(testFileName);
         for (int i = 0; i < testData.size(); i++) {
             Sequence input = (Sequence)testData.get(i).getData();
