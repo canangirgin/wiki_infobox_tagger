@@ -38,33 +38,27 @@ public class InfoFeatureFactory extends CompositeFeatureFactory {
         //(YIS-CRF-02)
         new RegexMatches("STARTNONUM", Pattern.compile("^[^\\d].*")),
         //(YIS-CRF-03)
-        new RegexMatches("HASLESSTHREELETTER", Pattern.compile("([A-Z]|[a-z]){3}")),
+        new RegexMatches("HASLESSTHREELETTER", Pattern.compile("("+FC.CAPS+"|"+FC.LOW+"){3}")),
         //(YIS-CRF-04)
-        new RegexMatches("STARTCAPANDHASOPPOS", Pattern.compile("^[A-Z].+'([A-Z]|[a-z])+")),
+        new RegexMatches("STARTCAPANDHASOPPOS", Pattern.compile("^"+FC.CAPS+".+'("+FC.CAPS+"|"+FC.LOW+")+")),
                 //   Has bracket
         new RegexMatches("HASBRACKET", Pattern.compile ("[()]")),
         new InBracket("INBRACKET",true) ,
         //Sadece sayılardan mı oluşuyor?
-        new RegexMatches("ALLDIGITS", Pattern.compile ("[0-9]")),
-        new RegexMatches("HASDIGIT", Pattern.compile(".*[0-9].*")),
-
+        new RegexMatches("ALLDIGITS", Pattern.compile (FC.NUM)),
+        new RegexMatches("HASDIGIT", Pattern.compile(".*"+FC.NUM+".*")),
 
                 new RegexMatches("INITCAP", Pattern.compile (FC.CAPS+".*")),
                 new RegexMatches("CAPITALIZED", Pattern.compile (FC.CAPS+FC.LOW+"*")),
                 new RegexMatches("ALLCAPS", Pattern.compile (FC.CAPS+"+")),
-                new RegexMatches("MIXEDCAPS", Pattern.compile ("[A-Z][a-z]+[A-Z][A-Za-z]*")),
-                new RegexMatches("CONTAINSDIGITS", Pattern.compile (".*[0-9].*")),
-                new RegexMatches("SINGLEDIGITS", Pattern.compile ("[0-9]")),
-                new RegexMatches("DOUBLEDIGITS", Pattern.compile ("[0-9][0-9]")),
-                new RegexMatches("NUMERICAL", Pattern.compile ("[-0-9]+[\\.,]+[0-9\\.,]+")),
-                new RegexMatches("ALPHNUMERIC", Pattern.compile ("[A-Za-z0-9]+")),
-                new RegexMatches("ROMAN", Pattern.compile ("[ivxdlcm]+|[IVXDLCM]+")),
-                new RegexMatches("MULTIDOTS", Pattern.compile ("\\.\\.+")),
+                new RegexMatches("MIXEDCAPS", Pattern.compile (FC.CAPS+FC.LOW+"+"+FC.CAPS+FC.ALPHA+"*")),
+                new RegexMatches("CONTAINSDIGITS", Pattern.compile (".*"+FC.NUM+".*")),
+                new RegexMatches("ALPHNUMERIC", Pattern.compile (FC.ALPHANUM+"+")),
+
                 new RegexMatches("ENDSINDOT", Pattern.compile ("[^\\.]+.*\\.")),
                 new RegexMatches("CONTAINSDASH", Pattern.compile(FC.ALPHANUM+"+-"+FC.ALPHANUM+"*")),
                 new RegexMatches("ACRO", Pattern.compile ("[A-Z][A-Z\\.]*\\.[A-Z\\.]*")),
-                new RegexMatches("LONELYINITIAL", Pattern.compile (FC.CAPS+"\\.")),
-                new RegexMatches("SINGLECHAR", Pattern.compile (FC.ALPHA)),
+
                 new RegexMatches("CAPLETTER", Pattern.compile ("[A-Z]")),
                 new RegexMatches("PUNC", Pattern.compile (FC.PUNT)),
                 new RegexMatches("QUOTE", Pattern.compile (FC.QUOTE)),
@@ -77,8 +71,6 @@ public class InfoFeatureFactory extends CompositeFeatureFactory {
               new RegexMatches("HAS_QUOTE", Pattern.compile(".*'.*")),
                 new RegexMatches("HAS_SLASH", Pattern.compile(".*/.*")),
                 new RegexMatches("START_MINUS", Pattern.compile("-.*")),
-                new RegexMatches("START_PLUS", Pattern.compile("\\+.*")),
-                new RegexMatches("END_PERCENT", Pattern.compile(".*%")),
                   /* Make the word a feature. */
 
 
@@ -98,7 +90,7 @@ public class InfoFeatureFactory extends CompositeFeatureFactory {
                 /*
                 new FeaturesInWindow("WINDOW=",-5,5,
                 Pattern.compile("WORD=.*|SUFFIX.*|PREFIX.*|DC=.*|WC=.*|BWC=.*|[A-Z]+"),true), */
-                new FeaturesInWindow("WINDOW=",-5,3,
+                new FeaturesInWindow("WINDOW=",-5,5,
                         Pattern.compile("WORD=.*|SUFFIX.*|PREFIX.*|DC=.*|WC=.*|BWC=.*"),true),
 
         /*

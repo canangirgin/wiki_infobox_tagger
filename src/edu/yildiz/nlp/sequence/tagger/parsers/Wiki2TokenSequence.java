@@ -2,6 +2,7 @@ package edu.yildiz.nlp.sequence.tagger.parsers;
 
 import cc.mallet.pipe.Pipe;
 import cc.mallet.types.*;
+import edu.yildiz.nlp.sequence.tagger.features.FC;
 
 /**
  * Created with IntelliJ IDEA.
@@ -33,7 +34,7 @@ import cc.mallet.types.*;
             TokenSequence data = new TokenSequence(tokenLines.length);
             for(int i=0; i< tokenLines.length; i++){
                 String line = tokenLines[i];
-                System.out.println(line);
+             //   System.out.println(line);
                 String[] features = line.split("\\s+");
                 String label="";
                 if (features.length>0)
@@ -52,19 +53,20 @@ import cc.mallet.types.*;
                     }
                 } else
                 {
-                    label =  "<ENAMEX_TYPE=\"O\">";
+                   label =  "<ENAMEX_TYPE=\"O\">";
                 }
 
                 String wc = word;
                 String bwc = word;
-                String originWord = word;
+                String dc=word;
+                tokenLines[i]=word;
                 Token token = new Token(word);
                 token.setFeatureValue("W=" + word, 1);
 
                 //                      transform
-                word = doDigitalCollapse(word);
-                if (word!=null)
-                token.setFeatureValue("DC=" + word, 1);
+                dc = doDigitalCollapse(word);
+                if (dc!=null)
+                token.setFeatureValue("DC=" + dc, 1);
 
                 wc = doWordClass(wc);
                 token.setFeatureValue("WC=" + wc, 1);
@@ -72,7 +74,7 @@ import cc.mallet.types.*;
                 bwc = doBriefWordClass(bwc);
                 token.setFeatureValue("BWC=" + bwc, 1);
 
-                String ld = originWord.toLowerCase();
+                String ld = word.toLowerCase();
                 token.setFeatureValue("LC=" + ld, 1);
 
                 //                      finish one token line
@@ -96,18 +98,18 @@ import cc.mallet.types.*;
         }
 
         private String doBriefWordClass(String bwc) {
-            bwc = bwc.replaceAll("[A-Z]+", "A");
-            bwc = bwc.replaceAll("[a-z]+", "a");
-            bwc = bwc.replaceAll("[0-9]+", "0");
-            bwc = bwc.replaceAll("[^A-Za-z0-9]+", "x");
+            bwc = bwc.replaceAll("["+ FC.CAPS+"]+", "A");
+            bwc = bwc.replaceAll("["+FC.LOW+"]+", "a");
+            bwc = bwc.replaceAll("["+FC.NUM+"]+", "0");
+            bwc = bwc.replaceAll("[^"+FC.ALPHANUM+"]+", "x");
             return bwc;
         }
 
         private String doWordClass(String wc) {
-            wc = wc.replaceAll("[A-Z]", "A");
-            wc = wc.replaceAll("[a-z]", "a");
-            wc = wc.replaceAll("[0-9]", "0");
-            wc = wc.replaceAll("[^A-Za-z0-9]", "x");
+            wc = wc.replaceAll("["+ FC.CAPS+"]", "A");
+            wc = wc.replaceAll("["+FC.LOW+"]", "a");
+            wc = wc.replaceAll("["+FC.NUM+"]", "0");
+            wc = wc.replaceAll("[^"+FC.ALPHANUM+"]", "x");
 
             return wc;
         }

@@ -23,7 +23,7 @@ yaşamını yitirdi.
 {{DEFAULTSORT:Almeida, Manuel Antônio De}}
 
 Kategori: <ENAMEX_TYPE="p_dogum_tar">1831</ENAMEX> doğumlular
-Kategori:<ENAMEX_TYPE="p_olum_tar">1861</ENAMEX> yılında ölenler
+Kategori: <ENAMEX_TYPE="p_olum_tar">1861</ENAMEX> yılında ölenler
 Kategori:Brezilyalı yazarlar
 Kategori:Ölmüş insanlar
 
@@ -50,9 +50,7 @@ kutusu
 {{kaynaksız}}
 {{Kişi bilgi kutusu
 
-}} 
-
-<ENAMEX_TYPE="p_dogum_tar">1958</ENAMEX> yılında Ardahan'ın <ENAMEX_TYPE="p_dogum_yer">Çıldır</ENAMEX> ilçesinde dünyaya geldi.8 çocuklu çiftci 
+}} <ENAMEX_TYPE="p_dogum_tar">1958</ENAMEX> yılında Ardahan'ın <ENAMEX_TYPE="p_dogum_yer">Çıldır</ENAMEX> ilçesinde dünyaya geldi.8 çocuklu çiftci 
 
 Yılmaz''' ; (d. 13 Nisan <ENAMEX_TYPE="p_dogum_tar">1986</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Ilıca</ENAMEX> Türk orta saha futbolcusu.
 
@@ -61,7 +59,7 @@ Yılmaz''' ; (d. 13 Nisan <ENAMEX_TYPE="p_dogum_tar">1986</ENAMEX> <ENAMEX_TYPE=
 kutusu
 
 }}
-'''Mary Steenburgen''' (d. 8 Şubat <ENAMEX_TYPE="p_dogum_tar">1953</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Amerika Birleşik Devletleri|ABD</ENAMEX> ABD'li kadın oyuncu. 
+'''Mary Steenburgen''' (d. 8 Şubat <ENAMEX_TYPE="p_dogum_tar">1953</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Amerika</ENAMEX> Birleşik Devletleri|ABD), ABD'li kadın oyuncu. 
 
 olarak da bilinir) 29 Ağustos <ENAMEX_TYPE="p_dogum_tar">1981</ENAMEX> doğumlu kadın porno oyuncusu ve 
 
@@ -136,7 +134,7 @@ kutusu
 
 }}
 
-'''Eşref Apak''', (d. 3 Ocak <ENAMEX_TYPE="p_dogum_tar">1983</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Kalecik Ankara</ENAMEX> Türk çekiç atma sporcusu. 
+'''Eşref Apak''', (d. 3 Ocak <ENAMEX_TYPE="p_dogum_tar">1983</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Kalecik</ENAMEX> Ankara) Türk çekiç atma sporcusu. 
 
 kutusu
 
@@ -171,6 +169,12 @@ kutusu
 
 
 '''Meşrebzâde Mehmet Arif Efendi''' (d. <ENAMEX_TYPE="p_dogum_tar">1791</ENAMEX> – ö. 1858), Osmanlı ilim 
+
+benimsemiş bir devlet adamıdır.
+
+== Yaşamı <ENAMEX_TYPE="p_dogum_yer"></ENAMEX> ==
+
+1791’de dünyaya geldi. Babası, Müderris 
 
 kutusu
 
@@ -216,14 +220,16 @@ fizikçi.Çalışan ilk lazeri yapmıştır.
 
 Kategori:ABD'li fizikçiler
 Kategori: <ENAMEX_TYPE="p_dogum_tar">1927</ENAMEX> doğumlular
-Kategori:<ENAMEX_TYPE="p_olum_tar">2007</ENAMEX> yılında ölenler
+Kategori: <ENAMEX_TYPE="p_olum_tar">2007</ENAMEX> yılında ölenler
 Kategori:Ölmüş insanlar
 
 be:Тэадор Майман
 be-x-old:Тэадор Мэйман
 ca:Theodore 
 
-(Bayburtlu, Yahya Naci Süleymanoviç) ( <ENAMEX_TYPE="p_dogum_tar">1876</ENAMEX> Kırım Tatarı yazar, dil bilimci 
+(Bayburtlu, Yahya Naci Süleymanoviç) ( <ENAMEX_TYPE="p_dogum_tar">1876</ENAMEX> Kırım Tatarı yazar, dil bilimci ve öğretmen.
+
+== Hayatı == <ENAMEX_TYPE="p_dogum_yer">Bahçesaray</ENAMEX> kentinde doğdu. İstanbul’da Sultaniye Medresesi’ni 
 
 2, s. 8-12.
 Kategori:Türkologlar
@@ -240,7 +246,7 @@ bilgi kutusu
 
 '''Berat Yenilmez''' (d.5 Ekim <ENAMEX_TYPE="p_dogum_tar">1970</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Sakarya</ENAMEX> - ö.) Türk oyuncu. Müjdat 
 
-Suazo Pontivo''', (d. 10 Mayıs <ENAMEX_TYPE="p_dogum_tar">1981</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">San Antonio</ENAMEX> Meksika'daki CF Monterrey takımında 
+Suazo Pontivo''', (d. 10 Mayıs <ENAMEX_TYPE="p_dogum_tar">1981</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">San</ENAMEX> Antonio) Meksika'daki CF Monterrey takımında 
 
 David Hewson''' (d. 10 Mayıs, <ENAMEX_TYPE="p_dogum_tar">1960</ENAMEX> Dublin, İrlanda) İrlandalı rock müzik|rock 
 
@@ -324,7 +330,7 @@ Kategori:Portekiz Millî Futbol Takımı
 {{Oyuncu bilgi kutusu
 
 }}
-'''Leman Akçatepe''' (<ENAMEX_TYPE="p_dogum_tar">1918</ENAMEX> İstanbul - 24 Haziran <ENAMEX_TYPE="p_olum_tar">1992</ENAMEX> İstanbul), Türk tiyatro ve sinema 
+'''Leman Akçatepe''' ( <ENAMEX_TYPE="p_dogum_tar">1918</ENAMEX> İstanbul - 24 Haziran <ENAMEX_TYPE="p_olum_tar">1992</ENAMEX> İstanbul), Türk tiyatro ve sinema 
 
 kutusu
 
@@ -365,7 +371,7 @@ Profesyonel olarak, 2002-2005 yılları
 
 Lakabı '''"Mami"''' (d. 30 Mart <ENAMEX_TYPE="p_dogum_tar">1964</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Trabzon</ENAMEX> Türk futbolcu Galatasaray'ın efsane futbolcularındandır. 
 
-Edward Moore''' (d. 4 Kasım <ENAMEX_TYPE="p_dogum_tar">1873</ENAMEX> ö. 24 Ekim <ENAMEX_TYPE="p_olum_tar">1958</ENAMEX> Cambridge Üniversitesi|Cambridge Üniversitesi'nde önce okuyup 
+Edward Moore''' (d. 4 Kasım <ENAMEX_TYPE="p_dogum_tar">1873</ENAMEX> ö. 24 Ekim <ENAMEX_TYPE="p_olum_tar">1958</ENAMEX> Cambridge Üniversitesi|Cambridge Üniversitesi'nde önce okuyup sonra orada ders vermiş çağdaş <ENAMEX_TYPE="p_dogum_yer">İngiliz</ENAMEX> düşünürü. İdealizme olan şiddetli karşı 
 
 kutusu
 
@@ -401,11 +407,11 @@ Kathleen Wright''' (d. 17 Şubat <ENAMEX_TYPE="p_dogum_tar">1991</ENAMEX> <ENAME
 {{Sanatçı bilgi kutusu
 
 }}
-'''Hakkı Torunoğlu''' (<ENAMEX_TYPE="p_dogum_tar">1926</ENAMEX> Gürün - <ENAMEX_TYPE="p_olum_tar">1984</ENAMEX> Sivas), Türk ressam.
+'''Hakkı Torunoğlu''' ( <ENAMEX_TYPE="p_dogum_tar">1926</ENAMEX> Gürün - <ENAMEX_TYPE="p_olum_tar">1984</ENAMEX> Sivas), Türk ressam.
 
 1926'da, Sivas (il)|Sivas'ın <ENAMEX_TYPE="p_dogum_yer">Gürün</ENAMEX> ilçesinde doğdu. Sanat yaşamı 1944'ye, 
 
-Jared Brody''' (d. 15 Aralık <ENAMEX_TYPE="p_dogum_tar">1979</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">San Diego</ENAMEX> Kaliforniya) Amerika Birleşik Devletleri|ABD'li 
+Jared Brody''' (d. 15 Aralık <ENAMEX_TYPE="p_dogum_tar">1979</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">San</ENAMEX> Diego, Kaliforniya) Amerika Birleşik Devletleri|ABD'li 
 
 Thompson''' (d.  13 Temmuz <ENAMEX_TYPE="p_dogum_tar">1954</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Shelby</ENAMEX> North Carolina) Amerika Birleşik Devletleri|ABD'li 
 
@@ -539,7 +545,7 @@ bilgi kutusu
 
 Jelleyman''' (d. 14 Kasım 1980, <ENAMEX_TYPE="p_dogum_yer">Holywell</ENAMEX> Gallerli futbolcu. Genellikle savunmanın sol 
 
-Moreno Machado''' (d. 6 Mart <ENAMEX_TYPE="p_dogum_tar">1991</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Rio de Janeiro</ENAMEX> forvet mevkiinde görev 
+Moreno Machado''' (d. 6 Mart <ENAMEX_TYPE="p_dogum_tar">1991</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Rio</ENAMEX> de Janeiro), forvet mevkiinde görev 
 
 ya da '''Heurelho Gomes'''(15 Şubat <ENAMEX_TYPE="p_dogum_tar">1981</ENAMEX> Pinheiro,Brezilya),Brezilyalı kaleci.Boyu 1.91 m'dir.Şu anda 
 
@@ -567,7 +573,7 @@ bilgi kutusu
 
 Anatoliyovich Salenko'' (d. 25 Ekim <ENAMEX_TYPE="p_dogum_tar">1969</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Leningrad</ENAMEX> Sovyet Sosyalist Cumhuriyetler Birliği|SSCB) Rusya 
 
-Jorge Loureiro''') (d. 2 Eylül <ENAMEX_TYPE="p_dogum_tar">1977</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Rio de Janeiro</ENAMEX> Brezilya) Brezilyalı orta 
+Jorge Loureiro''') (d. 2 Eylül <ENAMEX_TYPE="p_dogum_tar">1977</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Rio</ENAMEX> de Janeiro, Brezilya) Brezilyalı orta 
 
 François Vogel''' (d. 8 Mart <ENAMEX_TYPE="p_dogum_tar">1977</ENAMEX> - <ENAMEX_TYPE="p_dogum_yer">Cenevre</ENAMEX> İsviçre) İsviçreli eski orta saha 
 
@@ -602,7 +608,7 @@ kutusu
 kutusu
 
 }}
-'''Sidney Govou''' (d. 27 Temmuz <ENAMEX_TYPE="p_dogum_tar">1979</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">:fr:Le Puy</ENAMEX> Puy-en-Velay, Fransa) Fransız vatandaşı, 
+'''Sidney Govou''' (d. 27 Temmuz <ENAMEX_TYPE="p_dogum_tar">1979</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">:fr:Le</ENAMEX> Puy-en-Velay|Le Puy-en-Velay, Fransa) Fransız vatandaşı, 
 
 kutusu
 
@@ -618,7 +624,7 @@ bilgi kutusu
 
 ve grafik çalışmaları yapmaya başladı. <ENAMEX_TYPE="p_olum_tar">2001</ENAMEX> yılı sonbaharında, henüz 46 yaşındayken 
 
-Alonso López''' (d. 8 Ekim <ENAMEX_TYPE="p_dogum_tar">1948</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Santa Isabel</ENAMEX> Tolima|Santa Isabel, Colombia|Kolombiya) "Andes 
+Alonso López''' (d. 8 Ekim <ENAMEX_TYPE="p_dogum_tar">1948</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Santa</ENAMEX> Isabel, Tolima|Santa Isabel, Colombia|Kolombiya) "Andes 
 
 kutusu
 
@@ -900,7 +906,7 @@ Fernando Meira olarak
 Kadrosu
 '''Metin Yıldız''' (d. 24 Kasım <ENAMEX_TYPE="p_dogum_tar">1960</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Sivas</ENAMEX> Türk futbolcu. Futbolculuk kariyerinde genellikle 
 
-Mendoza Azevedo'' (d. 26 Nisan <ENAMEX_TYPE="p_dogum_tar">1978</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Chincha Alta</ENAMEX> Columbus Crew'da oynayan Perulu 
+Mendoza Azevedo'' (d. 26 Nisan <ENAMEX_TYPE="p_dogum_tar">1978</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Chincha</ENAMEX> Alta), Columbus Crew'da oynayan Perulu 
 
 = {{doğum tarihi ve yaşı| <ENAMEX_TYPE="p_dogum_tar">1975</ENAMEX> Nationality  = {{bayraksimge|Wales}} Galler|Gal
 | 
@@ -914,7 +920,7 @@ Lee Bass'''; d. 3 Ekim, <ENAMEX_TYPE="p_dogum_tar">1962</ENAMEX> Atina) ABD'li m
 kutusu
 
 }}
-'''Mehmet Ayaz''' (d. 10 Nisan <ENAMEX_TYPE="p_dogum_tar">1982</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Trabzon (il</ENAMEX> Türk orta saha futbolcusu. 
+'''Mehmet Ayaz''' (d. 10 Nisan <ENAMEX_TYPE="p_dogum_tar">1982</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Trabzon</ENAMEX> (il)|Trabzon), Türk orta saha futbolcusu. 
 
 Charles Walter Green''' (d. Ağustos, <ENAMEX_TYPE="p_dogum_tar">1863</ENAMEX> Worcester, İngiltere - ö. 2 Ekim <ENAMEX_TYPE="p_olum_tar">1923</ENAMEX> Droitwich Spa, İngiltere), İngiliz futbolcu. 
 
@@ -1045,7 +1051,7 @@ kutusu
 }}
 '''Bobby Moore''' (d. 12 Nisan <ENAMEX_TYPE="p_dogum_tar">1941</ENAMEX> - ö. 24 Şubat <ENAMEX_TYPE="p_olum_tar">1993</ENAMEX> Londra) defans mevkiinde forma giymiş 
 
-'''Hakan ATALAY''' (D:18.12.<ENAMEX_TYPE="p_dogum_tar">1972</ENAMEX> Almanya), Türk Siyasetçi, Mali Müşavir 
+'''Hakan ATALAY''' (D:18.12. <ENAMEX_TYPE="p_dogum_tar">1972</ENAMEX> Almanya), Türk Siyasetçi, Mali Müşavir 
 
 
 
@@ -1121,9 +1127,9 @@ kutusu
 
 }}
 
-'''Rick Carlisle''' (d. 27 Ekim <ENAMEX_TYPE="p_dogum_tar">1959</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">New York (eyalet</ENAMEX> eski bir National 
+'''Rick Carlisle''' (d. 27 Ekim <ENAMEX_TYPE="p_dogum_tar">1959</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">New</ENAMEX> York (eyalet)), eski bir National 
 
-Ritter von Jauregg''') (7 Mart <ENAMEX_TYPE="p_dogum_tar"><ENAMEX_TYPE="p_olum_tar">1857</ENAMEX> Wels,  Avusturya - 27 
+Ritter von Jauregg''') (7 Mart <ENAMEX_TYPE="p_dogum_tar"> <ENAMEX_TYPE="p_olum_tar">1857</ENAMEX> Wels,  Avusturya - 27 
 
 Krüger''' (d. 27 Şubat 1894, <ENAMEX_TYPE="p_dogum_yer">Strasbourg</ENAMEX> Fransa - ö. 9 Mayıs 
 
@@ -1134,7 +1140,7 @@ kutusu
 }}
 '''Recep Öztürk''' (d. 20 Haziran <ENAMEX_TYPE="p_dogum_tar">1977</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Tekirdağ</ENAMEX> Türk futbolcu. 1. Lig ekiplerinden 
 
-"Miki" Rapaić''' (d. 16 Ağustos <ENAMEX_TYPE="p_dogum_tar">1973</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Nova Gradiška</ENAMEX> Hırvat eski millî futbolcu.
+"Miki" Rapaić''' (d. 16 Ağustos <ENAMEX_TYPE="p_dogum_tar">1973</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Nova</ENAMEX> Gradiška) Hırvat eski millî futbolcu.
 
 == 
 
@@ -1365,7 +1371,7 @@ Manisa'nın köklü ve
 
 }}
 
-'''Muhittin Önür''' (<ENAMEX_TYPE="p_dogum_tar">1903</ENAMEX> - 27 Eylül <ENAMEX_TYPE="p_olum_tar">1978</ENAMEX> Türk asker.
+'''Muhittin Önür''' ( <ENAMEX_TYPE="p_dogum_tar">1903</ENAMEX> - 27 Eylül <ENAMEX_TYPE="p_olum_tar">1978</ENAMEX> Türk asker.
 
 1921 yılında Piyade Asteğmen 
 
@@ -1420,9 +1426,7 @@ bilgi kutusu
 {{kaynaksız}}
 {{Makam sahibi bilgi kutusu
 
-}}
-
-<ENAMEX_TYPE="p_dogum_tar">1885</ENAMEX> Midilli adasının Polihinit şehrinde doğdu. 
+}} <ENAMEX_TYPE="p_dogum_tar">1885</ENAMEX> Midilli adasının Polihinit şehrinde doğdu. 
 
 kadar bu görevi sürdürdü.
 
@@ -1456,9 +1460,9 @@ Ankara
 kutusu
 
 }}
-'''Brian Little''' (d. 25 Kasım <ENAMEX_TYPE="p_dogum_tar">1953</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Newcastle upon Tyne</ENAMEX> İngiltere), İngiliz eski 
+'''Brian Little''' (d. 25 Kasım <ENAMEX_TYPE="p_dogum_tar">1953</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Newcastle</ENAMEX> upon Tyne, İngiltere), İngiliz eski 
 
-McKay Rorty''', (d. 4 Kasım <ENAMEX_TYPE="p_dogum_tar">1931</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">New York City</ENAMEX> Amerika Birleşik Devletleri|ABD - ö. 8 Haziran <ENAMEX_TYPE="p_olum_tar">2007</ENAMEX> Palo Alto, Kaliforniya, Amerika Birleşik 
+McKay Rorty''', (d. 4 Kasım <ENAMEX_TYPE="p_dogum_tar">1931</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">New</ENAMEX> York City, Amerika Birleşik Devletleri|ABD - ö. 8 Haziran <ENAMEX_TYPE="p_olum_tar">2007</ENAMEX> Palo Alto, Kaliforniya, Amerika Birleşik 
 
 bilgi kutusu
 
@@ -1553,7 +1557,7 @@ Hadım Mehmet Paşa''' (ö. Temmuz <ENAMEX_TYPE="p_olum_tar">1626</ENAMEX> I. Mu
 
 (? - ö. 21 Mart <ENAMEX_TYPE="p_olum_tar">1653</ENAMEX> İstanbul) IV. Mehmet|Avcı Mehmet saltanatında 
 
-"Chris" Sims''' (d. 21 Ekim <ENAMEX_TYPE="p_dogum_tar">1942</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Washington D.C.</ENAMEX> ABD'li iktisatçı. Uğraştığı alanlar 
+"Chris" Sims''' (d. 21 Ekim <ENAMEX_TYPE="p_dogum_tar">1942</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Washington</ENAMEX> D.C.) ABD'li iktisatçı. Uğraştığı alanlar 
 
 kutusu
 
@@ -1602,6 +1606,17 @@ sanatçısı bilgi kutusu
 
 }}
 '''Suat Sayın''' ( <ENAMEX_TYPE="p_dogum_tar">1932</ENAMEX> - <ENAMEX_TYPE="p_olum_tar">2006</ENAMEX> Klasik Türk müziği|Türk Sanat Müziği 
+
+(Bestekâr: Anonim)
+*''Yollar uzak gelemedim''
+
+== Kaynakça <ENAMEX_TYPE="p_dogum_yer"></ENAMEX> ==
+{{kaynakça}}
+
+Kategori:İstanbul doğumlular
+Kategori:2006 yılında ölenler
+Kategori:Ölmüş insanlar
+Kategori:1960'ların 
 
 kutusu
 
@@ -1706,7 +1721,7 @@ kutusu
 kutusu
 
 }}
-'''Mehmet Polat''' (d. 8 Haziran <ENAMEX_TYPE="p_dogum_tar">1978</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Gaziantep (il</ENAMEX> Türkiye) Türk futbolcu. Mersin 
+'''Mehmet Polat''' (d. 8 Haziran <ENAMEX_TYPE="p_dogum_tar">1978</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Gaziantep</ENAMEX> (il)|Gaziantep, Türkiye) Türk futbolcu. Mersin 
 
 Cafer Çağatay''' (d. 1 Ocak <ENAMEX_TYPE="p_dogum_tar">1899</ENAMEX> - d. <ENAMEX_TYPE="p_olum_tar">1991</ENAMEX> Türk eski millî futbolcu. 1924 
 
@@ -1752,7 +1767,7 @@ kutusu
 }}
 '''Metin Akan''' (d. 28 Mayıs <ENAMEX_TYPE="p_dogum_tar">1983</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Bursa</ENAMEX> Türk futbolcu. 1. Lig ekiplerinden 
 
-Vinícius Cesário''' (d. 22 Mart <ENAMEX_TYPE="p_dogum_tar">1985</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Ribeirão Preto</ENAMEX> Sao Paulo), Cesário adı 
+Vinícius Cesário''' (d. 22 Mart <ENAMEX_TYPE="p_dogum_tar">1985</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Ribeirão</ENAMEX> Preto, Sao Paulo), Cesário adı 
 
 kutusu
 
@@ -1884,7 +1899,7 @@ sanatçısı bilgi kutusu
 
 Takımı|Takım}}
 {{MedalBottom}}
-'''Mirsad Türkcan''' (d. 7 Haziran <ENAMEX_TYPE="p_dogum_tar">1976</ENAMEX> Yeni Pazar|Novi Pazar, Sırbistan|Sırbistan SC, 
+'''Mirsad Türkcan''' (d. 7 Haziran <ENAMEX_TYPE="p_dogum_tar">1976</ENAMEX> Yeni <ENAMEX_TYPE="p_dogum_yer">Pazar|Novi</ENAMEX> Pazar, Sırbistan|Sırbistan SC, Yugoslavya Sosyalist 
 
 Çelik''', ( d. 5 Mart <ENAMEX_TYPE="p_dogum_tar">1959</ENAMEX> Gürpınar, Van) 59. Türkiye Cumhuriyeti 
 
@@ -1918,7 +1933,7 @@ kutusu
 kutusu
 
 }}
-'''Adem Kaba''', (d. 10 Ağustos <ENAMEX_TYPE="p_dogum_tar">1989</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Engindere (Askoroz</ENAMEX> Rize) Bergama Belediyespor|Bergama takımında 
+'''Adem Kaba''', (d. 10 Ağustos <ENAMEX_TYPE="p_dogum_tar">1989</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Engindere</ENAMEX> (Askoroz), Rize) Bergama Belediyespor|Bergama takımında 
 
 kutusu
 
@@ -1974,6 +1989,16 @@ sanatçısı bilgi kutusu
 
 }}
 '''Atilla Atasoy''', (d. <ENAMEX_TYPE="p_dogum_tar">1953</ENAMEX> Milas - Muğla) aslen Marmaris'li 
+
+Şarkı
+
+1980 Kışla Havası & Günah <ENAMEX_TYPE="p_dogum_yer"></ENAMEX> Bende
+
+{{Türk-şarkıcı-taslak}}
+
+Kategori:Muğla doğumlular
+Kategori:Türk pop şarkıcıları 
+Kategori:Türk 
 
 Robert Markham''' ''(d. 20 Temmuz <ENAMEX_TYPE="p_dogum_tar">1830</ENAMEX> – ö. 30 Ocak <ENAMEX_TYPE="p_olum_tar">1916</ENAMEX> İngiliz coğrafyacı, kâşif ve yazar. 
 
@@ -2055,7 +2080,7 @@ bilgi kutusu
 {{Kişi bilgi kutusu
 
 }}
-'''Leonie Swann''' (d. <ENAMEX_TYPE="p_dogum_tar">1975</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Almanya / Dachau</ENAMEX> bir Alman polisiye 
+'''Leonie Swann''' (d. <ENAMEX_TYPE="p_dogum_tar">1975</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Almanya</ENAMEX> / Dachau), bir Alman polisiye 
 
 kutusu
 
@@ -2063,7 +2088,7 @@ kutusu
 
 '''Bèbè Kambou''' (d. 1 Temmuz <ENAMEX_TYPE="p_dogum_tar">1982</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Peni</ENAMEX> orta saha mevkiinde görev yapan 
 
-Valdivia Toro''' (d. 19 Ekim <ENAMEX_TYPE="p_dogum_tar">1983</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Maracay<ref>{{Web kaynağı| url = http://www.emol.com/noticias/deportes/detalle/detallenoticias.asp?idnoticia=312297 | 
+Valdivia Toro''' (d. 19 Ekim <ENAMEX_TYPE="p_dogum_tar">1983</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Maracay<ref>{{Web</ENAMEX> kaynağı| url = http://www.emol.com/noticias/deportes/detalle/detallenoticias.asp?idnoticia=312297 | 
 
 kutusu
 
@@ -2077,7 +2102,7 @@ Tuba Atav 1 Ocak
 Kutusu
 
 }}
-'''Mark King''', (d. 28 Mart <ENAMEX_TYPE="p_dogum_tar">1974</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Romford Essex İngiltere</ENAMEX> İngiliz profesyonel snooker 
+'''Mark King''', (d. 28 Mart <ENAMEX_TYPE="p_dogum_tar">1974</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Romford</ENAMEX> Essex İngiltere) İngiliz profesyonel snooker 
 
 isim olmak üzere) (5 Eylül <ENAMEX_TYPE="p_dogum_tar">1990</ENAMEX> Bucheon, Güney Kore) 2010 2010 
 
@@ -2227,7 +2252,7 @@ kutusu
 
 }}
 
-'''Emir Spahić''' (d. 18 Ağustos <ENAMEX_TYPE="p_dogum_tar">1980</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Dubrovnik Hırvatistan</ENAMEX> Hırvatistan doğumlu defans pozisyonunda 
+'''Emir Spahić''' (d. 18 Ağustos <ENAMEX_TYPE="p_dogum_tar">1980</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Dubrovnik</ENAMEX> Hırvatistan) Hırvatistan doğumlu defans pozisyonunda 
 
 Aydilge Sarp)'' (d. 25 Haziran <ENAMEX_TYPE="p_dogum_tar">1979</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Kütahya</ENAMEX> Türkiye), Türk yazar, müzisyen ve 
 
@@ -2249,7 +2274,7 @@ Mackendree "Matt" Lanter''' (1 Nisan <ENAMEX_TYPE="p_dogum_tar">1983</ENAMEX> Am
 
 Geray, '''ملک خاجى كراى‎‎‎'''; ö. <ENAMEX_TYPE="p_olum_tar">1466</ENAMEX> Kırım Hanlığı'nın kurucusudur. Hacı Giray, 
 
-Dos Santos''') (d. 20 Mayıs <ENAMEX_TYPE="p_dogum_tar">1981</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Rio de Janeiro</ENAMEX> Santrafor mevkiinde görev 
+Dos Santos''') (d. 20 Mayıs <ENAMEX_TYPE="p_dogum_tar">1981</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Rio</ENAMEX> de Janeiro) Santrafor mevkiinde görev 
 
 Robert Farmar (d. 30 Kasım <ENAMEX_TYPE="p_dogum_tar">1986</ENAMEX> Anadolu Efes'te forma giyen profesyonel basketbolcu.
 
@@ -2282,7 +2307,7 @@ Mehmet Güneş''', (d. 23 Kasım <ENAMEX_TYPE="p_dogum_tar">1978</ENAMEX> <ENAME
 {{Kişi bilgi kutusu
 
 }}
-'''Cihan Alptekin''' (d.<ENAMEX_TYPE="p_dogum_tar">1947</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Ardeşen</ENAMEX> Rize) - (ö.30 Mart <ENAMEX_TYPE="p_olum_tar">1972</ENAMEX> Kızıldere, Niksar, Tokat,) Türkiye Halk 
+'''Cihan Alptekin''' (d. <ENAMEX_TYPE="p_dogum_tar">1947</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Ardeşen</ENAMEX> Rize) - (ö.30 Mart <ENAMEX_TYPE="p_olum_tar">1972</ENAMEX> Kızıldere, Niksar, Tokat,) Türkiye Halk 
 
 sanatçısı bilgi kutusu
 
@@ -2328,7 +2353,7 @@ değerlik}}
 
 Boğaziçi 
 
-Hüseynzade''' (d. 22 Aralık 1919, <ENAMEX_TYPE="p_dogum_yer">Novkhani (Baku</ENAMEX> - ö. 2 Kasım 
+Hüseynzade''' (d. 22 Aralık 1919, <ENAMEX_TYPE="p_dogum_yer">Novkhani</ENAMEX> (Baku) - ö. 2 Kasım 
 
 bilgi kutusu
 
@@ -2354,16 +2379,16 @@ kutusu
 kutusu
 
 }}
-'''Murat Akın''' (d. 22 Ekim <ENAMEX_TYPE="p_dogum_tar">1986</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Sint Niklaas</ENAMEX> Belçika) Belçika'da yetişmiş Türk 
+'''Murat Akın''' (d. 22 Ekim <ENAMEX_TYPE="p_dogum_tar">1986</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Sint</ENAMEX> Niklaas, Belçika) Belçika'da yetişmiş Türk 
 
-{{farklı anlam|1604-<ENAMEX_TYPE="p_olum_tar">1606</ENAMEX> yılları arasında Sadrazamlık yapmış olan 
+{{farklı anlam|1604- <ENAMEX_TYPE="p_olum_tar">1606</ENAMEX> yılları arasında Sadrazamlık yapmış olan 
 
 {{kaynaksız}}
 {{Filozof bilgi kutusu
 
 }}
 
-'''Herbert Spencer''', (<ENAMEX_TYPE="p_dogum_tar">1820</ENAMEX> - <ENAMEX_TYPE="p_olum_tar">1903</ENAMEX> Ünlü İngiltere|İngiliz felsefe|filozofu ve sosyoloji|sosyoloğu.
+'''Herbert Spencer''', ( <ENAMEX_TYPE="p_dogum_tar">1820</ENAMEX> - <ENAMEX_TYPE="p_olum_tar">1903</ENAMEX> Ünlü İngiltere|İngiliz felsefe|filozofu ve sosyoloji|sosyoloğu.
 
 1820 
 
@@ -2384,7 +2409,7 @@ bilgi kutusu
 
 Seyyid Mehmed Paşa'''  (d. <ENAMEX_TYPE="p_dogum_tar">1726</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Alaiye</ENAMEX> - ö. 1787, Köstence)  
 
-oğlu İsmailov'') (d. 12 aralık <ENAMEX_TYPE="p_dogum_tar">1981</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Bakü Azerbaycan</ENAMEX> Azeriler|Azeri tiyatro ve sinema 
+oğlu İsmailov'') (d. 12 aralık <ENAMEX_TYPE="p_dogum_tar">1981</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Bakü</ENAMEX> Azerbaycan) Azeriler|Azeri tiyatro ve sinema 
 
 kutusu
 
@@ -2530,7 +2555,7 @@ kutusu
 
 }}
 
-'''Doris Day''' (d. 3 Nisan <ENAMEX_TYPE="p_dogum_tar">1924</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Cincinnati Ohio</ENAMEX> Amerika Birleşik Devletleri|ABD'li oyuncu, 
+'''Doris Day''' (d. 3 Nisan <ENAMEX_TYPE="p_dogum_tar">1924</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Cincinnati</ENAMEX> Ohio), Amerika Birleşik Devletleri|ABD'li oyuncu, 
 
 kutusu
 
@@ -2734,7 +2759,7 @@ Arabesk ve fantazi
 
 Bennet "Jamie" Connolly''' (28 Ekim <ENAMEX_TYPE="p_dogum_tar">1868</ENAMEX> Boston, Massachusetts - 20 Ocak <ENAMEX_TYPE="p_olum_tar">1957</ENAMEX> Brookline, Massachusetts|Brookline, Massachusetts), ABD'li atlet, 
 
-İbrahim Fırtına''', (d. 1 Ocak <ENAMEX_TYPE="p_dogum_tar">1943</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Ordu (şehir</ENAMEX> Türkiye), Türk orgeneral, eski 
+İbrahim Fırtına''', (d. 1 Ocak <ENAMEX_TYPE="p_dogum_tar">1943</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Ordu</ENAMEX> (şehir)|Ordu, Türkiye), Türk orgeneral, eski 
 
 ejderha adlı kitabıyla dünyaca tanınmıştır.
 
@@ -2828,7 +2853,7 @@ kutusu
 
 29 Aralık 
 
-kısaca '''Alanzinho''' (d. 22 Şubat <ENAMEX_TYPE="p_dogum_tar">1983</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Rio de Janerio</ENAMEX> Süper Lig takımlarından 
+kısaca '''Alanzinho''' (d. 22 Şubat <ENAMEX_TYPE="p_dogum_tar">1983</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Rio</ENAMEX> de Janerio) Süper Lig takımlarından 
 
 bilgi kutusu
 
@@ -2927,7 +2952,7 @@ kutusu
 {{Futbolcu bilgi kutusu
 
 }}
-'''Şevket Yorulmaz''' (<ENAMEX_TYPE="p_dogum_tar">1926</ENAMEX> Konya - 10 Ağustos <ENAMEX_TYPE="p_olum_tar">1997</ENAMEX> Türk eski millî futbolcu. Beşiktaş 
+'''Şevket Yorulmaz''' ( <ENAMEX_TYPE="p_dogum_tar">1926</ENAMEX> Konya - 10 Ağustos <ENAMEX_TYPE="p_olum_tar">1997</ENAMEX> Türk eski millî futbolcu. Beşiktaş 
 
 Kulüp kariyeri ===
 Şevket Yorulmaz, 1926’da <ENAMEX_TYPE="p_dogum_yer">Konya’da</ENAMEX> dünyaya geldi ve futbola Konya 
@@ -2937,7 +2962,7 @@ kutusu
 }}
 '''Richard Nathaniel Wright''' (4 Eylül <ENAMEX_TYPE="p_dogum_tar">1908</ENAMEX> Adams County, Mississippi - 28 Kasım <ENAMEX_TYPE="p_olum_tar">1960</ENAMEX> Paris), Afrikalı-Amerikalı öykü, roman ve 
 
-{{farklı anlam|1596, 1597 ve 1599-<ENAMEX_TYPE="p_olum_tar">1601</ENAMEX> dönemlerinde üç defa Sadrazamlık yapmış 
+{{farklı anlam|1596, 1597 ve 1599- <ENAMEX_TYPE="p_olum_tar">1601</ENAMEX> dönemlerinde üç defa Sadrazamlık yapmış 
 
 kutusu
 
@@ -3117,7 +3142,7 @@ kutusu
 {{Kişi bilgi kutusu
 
 }}
-'''Mehmet Özhaseki''',<ENAMEX_TYPE="p_dogum_tar">1957</ENAMEX> yılında Kayseri'de doğmuştur. İlk ve 
+'''Mehmet Özhaseki''', <ENAMEX_TYPE="p_dogum_tar">1957</ENAMEX> yılında Kayseri'de doğmuştur. İlk ve 
 
 Öztekin''', &nbsp; (d. 14 Ocak <ENAMEX_TYPE="p_dogum_tar">1959</ENAMEX> İstanbul), &nbsp; Tiyatro, sinema ve 
 
@@ -3164,7 +3189,7 @@ kutusu
 kutusu
 
 }}
-'''İsmail Özay''', (d. 18 Ağustos <ENAMEX_TYPE="p_dogum_tar">1953</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Çanakkale (il</ENAMEX> üç dönem Çanakkale Belediye 
+'''İsmail Özay''', (d. 18 Ağustos <ENAMEX_TYPE="p_dogum_tar">1953</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Çanakkale</ENAMEX> (il)|Çanakkale), üç dönem Çanakkale Belediye 
 
 kutusu
 
@@ -3176,7 +3201,7 @@ kutusu
 kutusu
 
 }}
-'''Özge Özberk''' (d. 13 Ağustos <ENAMEX_TYPE="p_dogum_tar">1976</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">İstanbul (il</ENAMEX> Türk sinema, tiyatro ve 
+'''Özge Özberk''' (d. 13 Ağustos <ENAMEX_TYPE="p_dogum_tar">1976</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">İstanbul</ENAMEX> (il)|İstanbul), Türk sinema, tiyatro ve 
 
 Ivanovich Tolbukhin'', d. 16 Haziran <ENAMEX_TYPE="p_dogum_tar">1894</ENAMEX> Androniki, Yaroslavl - ö. 17 Ekim <ENAMEX_TYPE="p_olum_tar">1949</ENAMEX> Moskova), Ruslar|Rus asıllı Sovyet Sosyalist 
 
@@ -3368,7 +3393,7 @@ Category:Royal Engineers officers
 -->
 
 Kategori: <ENAMEX_TYPE="p_dogum_tar">1885</ENAMEX> doğumlular
-Kategori:<ENAMEX_TYPE="p_olum_tar">1957</ENAMEX> yılında ölenler
+Kategori: <ENAMEX_TYPE="p_olum_tar">1957</ENAMEX> yılında ölenler
 Kategori:Britanyalı generaller
 Kategori:II. Dünya Savaşı 
 
@@ -3538,7 +3563,7 @@ bilgi kutusu
 
 '''Žarko Mihajlović''' (d. 4.3. <ENAMEX_TYPE="p_dogum_tar">1920</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Neuzina</ENAMEX> - ö. 16.9. <ENAMEX_TYPE="p_olum_tar">1986</ENAMEX> ) Yugoslav eski futbolcu ve 
 
-Soares''' olan (d. 22 Ocak <ENAMEX_TYPE="p_dogum_tar">1979</ENAMEX>  <ENAMEX_TYPE="p_dogum_yer">Sao Bras do Suaçui</ENAMEX> Brezilya)'da doğan 
+Soares''' olan (d. 22 Ocak <ENAMEX_TYPE="p_dogum_tar">1979</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Sao</ENAMEX> Bras do Suaçui, Brezilya)'da doğan 
 
 {{Diğer anlamı|Akal}}
 {{Yazar bilgi kutusu
@@ -3595,7 +3620,7 @@ bilinen adıyla '''Bülbül''' (27 Haziran <ENAMEX_TYPE="p_dogum_tar">1897</ENAM
 kutusu
 
 }}
-'''Metin Erksan''' (d. 1 Ocak <ENAMEX_TYPE="p_dogum_tar">1929</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Çanakkale (il</ENAMEX> 4 Ağustos <ENAMEX_TYPE="p_olum_tar">2012</ENAMEX> İstanbul ), Türk yönetmen ve 
+'''Metin Erksan''' (d. 1 Ocak <ENAMEX_TYPE="p_dogum_tar">1929</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Çanakkale</ENAMEX> (il)|Çanakkale-ö. 4 Ağustos <ENAMEX_TYPE="p_olum_tar">2012</ENAMEX> İstanbul ), Türk yönetmen ve 
 
 kutusu
 
@@ -3725,7 +3750,7 @@ bilgi kutusu
 }}
 '''Ahmet Yıldırım''', (25 Şubat <ENAMEX_TYPE="p_dogum_tar">1974</ENAMEX> Amasya) defans ve orta saha 
 
-Carneiro Filho''' (d. 13 Mart <ENAMEX_TYPE="p_dogum_tar">1989</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">João Pessoa</ENAMEX> Brezilyalı futbolcu. 03.06.2011 tarihinde 
+Carneiro Filho''' (d. 13 Mart <ENAMEX_TYPE="p_dogum_tar">1989</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">João</ENAMEX> Pessoa) Brezilyalı futbolcu. 03.06.2011 tarihinde 
 
 kutusu
 
@@ -3814,7 +3839,9 @@ anlamı|Adalı}}
 
 }}
 
-'''Adalı Halil''', (d. <ENAMEX_TYPE="p_dogum_tar">1871</ENAMEX> ö. <ENAMEX_TYPE="p_olum_tar">1927</ENAMEX> Edirne), son devir büyük Türk 
+'''Adalı Halil''', (d. <ENAMEX_TYPE="p_dogum_tar">1871</ENAMEX> ö. <ENAMEX_TYPE="p_olum_tar">1927</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Edirne</ENAMEX> son devir büyük Türk pehlivanlarından.
+
+Edirne'nin 
 
 Yıldız}}
 {{Asker bilgi kutusu
@@ -3989,7 +4016,7 @@ Sezonu</center></p></div></div>
 
 Killigil''' ''(veya Nuri Paşa)'' (d. <ENAMEX_TYPE="p_dogum_tar">1881</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">İstanbul</ENAMEX> - ö. <ENAMEX_TYPE="p_olum_tar">1949</ENAMEX> İstanbul) Osmanlı ordusu'nda komutan ve 
 
-adıyla '''Jô''' (d. 20 Mart <ENAMEX_TYPE="p_dogum_tar">1987</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Sao Paulo</ENAMEX> Brezilyalı futbolcu. Forvet pozisyonunda 
+adıyla '''Jô''' (d. 20 Mart <ENAMEX_TYPE="p_dogum_tar">1987</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Sao</ENAMEX> Paulo), Brezilyalı futbolcu. Forvet pozisyonunda 
 
 '''Kuşum Aydın''' (d. 1 Temmuz <ENAMEX_TYPE="p_dogum_tar">1966</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">İstanbul</ENAMEX> Türk şarkıcı, söz yazarı ve 
 
@@ -4139,7 +4166,7 @@ adıyla '''John 5''' (31 Temmuz <ENAMEX_TYPE="p_dogum_tar">1971</ENAMEX> Michiga
 
 John 
 
-'''Pacita Abad''' (<ENAMEX_TYPE="p_dogum_tar">1946</ENAMEX> modern bir ressamdır. Filipinler'in bir adası olan Basco, <ENAMEX_TYPE="p_dogum_yer">Batanes'te</ENAMEX> doğdu. 
+'''Pacita Abad''' ( <ENAMEX_TYPE="p_dogum_tar">1946</ENAMEX> modern bir ressamdır. Filipinler'in bir adası olan Basco, <ENAMEX_TYPE="p_dogum_yer">Batanes'te</ENAMEX> doğdu. 
 {{Sanatçı bilgi kutusu
 
 }}
@@ -4234,6 +4261,10 @@ kutusu
 
 
 '''Saliha Sebkati Valide Sultan''' ( <ENAMEX_TYPE="p_dogum_tar">1680</ENAMEX> Osmanlı padişahı I. Mahmut'nın annesi, 
+
+Sultan ve Sultan II. Mustafa'in <ENAMEX_TYPE="p_dogum_yer"></ENAMEX> eşiydi.
+
+İstanbul doğumlu <ref>http://wowturkey.com/forum/viewtopic.php?t=25881 Azapkapı Sebkati 
 
 yılı boyunca Valide Sultan kaldı. <ENAMEX_TYPE="p_olum_tar">1739</ENAMEX> yılında oğlunun saltanatı sırasında öldü. 
 
@@ -4367,7 +4398,7 @@ Mavrokordatos''' ({{dil-el|'''Αλέξανδρος Μαυροκορδάτος'''
 
 (Yunanca: Ιωάννης Μεταξάς) (12 Nisan <ENAMEX_TYPE="p_dogum_tar">1871</ENAMEX> İthaka - 29 Ocak <ENAMEX_TYPE="p_olum_tar">1941</ENAMEX> Atina, Yunanistan), 1936-1941 arasında ülkesini 
 
-{{farklı anlam|<ENAMEX_TYPE="p_dogum_tar">1888</ENAMEX> doğumlu Yunan siyasetçi|1952 doğumlu Yunan 
+{{farklı anlam| <ENAMEX_TYPE="p_dogum_tar">1888</ENAMEX> doğumlu Yunan siyasetçi|1952 doğumlu Yunan 
 
 Şubat 1888 - 1 Kasım <ENAMEX_TYPE="p_olum_tar">1968</ENAMEX> üç dönem başbakanlık yapan Yunanlı 
 
@@ -4406,7 +4437,6 @@ kutusu
 '''Kenan Çoban''' (d. 22 Ocak <ENAMEX_TYPE="p_dogum_tar">1976</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Elazığ</ENAMEX> sinema ve televizyon oyuncusudur.
 
 == Hayatı 
-
 
 {{Oyuncu bilgi kutusu
 
@@ -4510,7 +4540,7 @@ Bey 1288 yılında Balıkesir'de doğmuş{{fact}} <ENAMEX_TYPE="p_olum_tar">1417
 
 Sultan, گلبهار سلطان''' (ölümü yaklaşık <ENAMEX_TYPE="p_olum_tar">1510</ENAMEX> Osmanlı padişahı Yavuz Sultan Selim'in annesi ve II. Bayezid'in eşidir. <ENAMEX_TYPE="p_dogum_tar">1453</ENAMEX> Trabzon'da doğmuş olup ''Abd-üs-Samed'' isminde 
 
-"Tiny" Archibald''' (d. 2 Eylül <ENAMEX_TYPE="p_dogum_tar">1948</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">New York City</ENAMEX> ABD'li eski profesyonel 
+"Tiny" Archibald''' (d. 2 Eylül <ENAMEX_TYPE="p_dogum_tar">1948</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">New</ENAMEX> York City) ABD'li eski profesyonel 
 
 kutusu
 
@@ -4548,7 +4578,7 @@ Duncan MacDonald''' (d. 22 Aralık <ENAMEX_TYPE="p_dogum_tar">1960</ENAMEX> <ENA
 {{Sanatçı bilgi kutusu
 
 }}
-'''Gentile Bellini''' (1429-<ENAMEX_TYPE="p_olum_tar">1507</ENAMEX> Rönesans döneminde Venedik'te yaşamış İtalyan 
+'''Gentile Bellini''' (1429- <ENAMEX_TYPE="p_olum_tar">1507</ENAMEX> Rönesans döneminde Venedik'te yaşamış İtalyan 
 
 Robert Jackson''', (d. 31 Ekim <ENAMEX_TYPE="p_dogum_tar">1961</ENAMEX> üç kez Akademi Ödülü kazanmış 
 
@@ -4695,6 +4725,14 @@ bilgi kutusu
 
 Bahceban'''(1928 Mersin, † 31 Ekim <ENAMEX_TYPE="p_olum_tar">2010</ENAMEX> İstanbul), Türk müzisyen, şarkıcı, Tahran 
 
+dies in Istanbul'' (2. November <ENAMEX_TYPE="p_dogum_yer"></ENAMEX> 2008)
+
+
+Kategori:Mersin doğumlular
+Kategori:1928 doğumlular
+Kategori:Türk kadınlar
+Kategori:Türk opera 
+
 빅토르 초이, d. 21 Haziran <ENAMEX_TYPE="p_dogum_tar">1962</ENAMEX> – ö. 15 Ağustos <ENAMEX_TYPE="p_olum_tar">1990</ENAMEX> Sovyet Sosyalist Cumhuriyetler Birliği'nin rock 
 
 bilinen adıyla '''İbni Suud''', ('''d.''' <ENAMEX_TYPE="p_dogum_tar">1876</ENAMEX> - '''ö.''' 9 Kasım <ENAMEX_TYPE="p_olum_tar">1953</ENAMEX> Arapça: عبدالعزيز آل سعود).  
@@ -4751,12 +4789,12 @@ kutusu
 
 }}
 
-'''Karl Renner''' (d. 14 Aralık <ENAMEX_TYPE="p_dogum_tar">1870</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Untertannowitz (şimdiki adıyla Dolni Dunajovice</ENAMEX> - ö. 31 Aralık <ENAMEX_TYPE="p_olum_tar">1950</ENAMEX> Viyana) Avusturya Sosyaldemokrat Partisi (SPÖ) 
+'''Karl Renner''' (d. 14 Aralık <ENAMEX_TYPE="p_dogum_tar">1870</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Untertannowitz</ENAMEX> (şimdiki adıyla Dolni Dunajovice - ö. 31 Aralık <ENAMEX_TYPE="p_olum_tar">1950</ENAMEX> Viyana) Avusturya Sosyaldemokrat Partisi (SPÖ) 
 
 kutusu
 
 }}
-'''Gürkan Uygun''' (d. 27 Mayıs <ENAMEX_TYPE="p_dogum_tar">1974</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Sakarya<ref name="gürkan"></ref></ENAMEX> Türk tiyatro, dizi film 
+'''Gürkan Uygun''' (d. 27 Mayıs <ENAMEX_TYPE="p_dogum_tar">1974</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Sakarya<ref</ENAMEX> name="gürkan"></ref>), Türk tiyatro, dizi film 
 
 anlamı|Kingston}}
 {{Müzik sanatçısı bilgi kutusu
@@ -4985,7 +5023,7 @@ Levy'''  (d. 23 Aralık, <ENAMEX_TYPE="p_dogum_tar">1975</ENAMEX> Kudüs, İsrai
 
 == Biyografi 
 
-Dimitrova Yaneva''' (d. 31 Temmuz <ENAMEX_TYPE="p_dogum_tar">1985</ENAMEX> Bulgar voleybolcu. Voleybola 1996 yılında 
+Dimitrova Yaneva''' (d. 31 Temmuz <ENAMEX_TYPE="p_dogum_tar">1985</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Sofya</ENAMEX> Bulgar voleybolcu. Voleybola 1996 yılında 
 
 "Émile" Mpenza''' (d. 4 Temmuz <ENAMEX_TYPE="p_dogum_tar">1978</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Brüksel</ENAMEX> Belçika), Demokratik Kongo Cumhuriyeti|Kongo asıllı 
 
@@ -5075,7 +5113,7 @@ Eğitim bilgileri
 
 B.S. 
 
-(d. ? – ö. M. <ENAMEX_TYPE="p_olum_tar">1287</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Domaniç Akmeşhed / Alçay</ENAMEX> Oğuzların Bozok 
+(d. ? – ö. M. <ENAMEX_TYPE="p_olum_tar">1287</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Domaniç</ENAMEX> Akmeşhed / Alçay). Oğuzların Bozok 
 
 bilgi kutusu
 
@@ -5144,6 +5182,16 @@ bilgin bilgi kutusu
 
 1048 (H.440) senesinde Hemedan’da doğdu. <ENAMEX_TYPE="p_olum_tar">1140</ENAMEX> (H.535) de Herat’tan Merv’e giderken 
 
+Birben Resmi Web Sayfası
+
+== Kaynak <ENAMEX_TYPE="p_dogum_yer"></ENAMEX> ==
+{{Kaynakça}}
+{{müzisyen-taslak}}
+
+Kategori:Rize doğumlular
+Kategori:Hemşinliler (etnik grup)
+Kategori:Türk erkek 
+
 kutusu
 
 }}
@@ -5184,7 +5232,7 @@ kutusu
 {{Yazar bilgi kutusu
 
 }}
-'''Enver Gökçe''' (<ENAMEX_TYPE="p_dogum_tar">1920</ENAMEX> Kemaliye, Erzincan - 19 Kasım <ENAMEX_TYPE="p_olum_tar">1981</ENAMEX> Ankara), Türk şair. 
+'''Enver Gökçe''' ( <ENAMEX_TYPE="p_dogum_tar">1920</ENAMEX> Kemaliye, Erzincan - 19 Kasım <ENAMEX_TYPE="p_olum_tar">1981</ENAMEX> Ankara), Türk şair. 
 
 1920 yılında 
 
@@ -5318,7 +5366,7 @@ Muzaffer Efendi’nin Anıları
 Kategori:Türk askerler
 Kategori:Saimbeyli doğumlular
 Kategori: <ENAMEX_TYPE="p_dogum_tar">1898</ENAMEX> doğumlular
-Kategori:<ENAMEX_TYPE="p_olum_tar">1920</ENAMEX> yılında ölenler
+Kategori: <ENAMEX_TYPE="p_olum_tar">1920</ENAMEX> yılında ölenler
 Kategori:Çatışmada ölenler
 Kategori:Ölmüş insanlar
 Kategori:20. yüzyılda 
@@ -5413,7 +5461,7 @@ Kerem Özyeğen''', (d. 26 Eylül <ENAMEX_TYPE="p_dogum_tar">1977</ENAMEX> <ENAM
 
 Ortaokulu 
 
-Anele Ngcongca''' (d. 21 Ekim <ENAMEX_TYPE="p_dogum_tar">1987</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Cape Town</ENAMEX> Güney Afrika'lı Milli Futbolcu.
+Anele Ngcongca''' (d. 21 Ekim <ENAMEX_TYPE="p_dogum_tar">1987</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Cape</ENAMEX> Town) Güney Afrika'lı Milli Futbolcu.
 
 ==Kariyeri==
 Futbol'a 
@@ -5462,7 +5510,7 @@ kutusu
 
 '''Gary Cooper''' (''d. 7 Mayıs <ENAMEX_TYPE="p_dogum_tar">1901</ENAMEX> - ö. 13 Mayıs <ENAMEX_TYPE="p_olum_tar">1961</ENAMEX> ABD'li ünlü sinema oyuncusudur. İki 
 
-'''Oscar Niemeyer''' (d. 15 Aralık <ENAMEX_TYPE="p_dogum_tar">1907</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Rio de Janeiro</ENAMEX> Brezilya - ö. 5 Aralık <ENAMEX_TYPE="p_olum_tar">2012</ENAMEX> Rio de Janeiro, Brezilya), Brezilya 
+'''Oscar Niemeyer''' (d. 15 Aralık <ENAMEX_TYPE="p_dogum_tar">1907</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Rio</ENAMEX> de Janeiro, Brezilya - ö. 5 Aralık <ENAMEX_TYPE="p_olum_tar">2012</ENAMEX> Rio de Janeiro, Brezilya), Brezilya 
 
 bilgi kutusu
 
@@ -5495,7 +5543,7 @@ Mersinli Kimya
 
 = http://www.hurriyet.com.tr/gundem/18473092.asp| başlık = 'İyi <ENAMEX_TYPE="p_dogum_yer">ki</ENAMEX> doğdun yarim'| yayımcı = Hürriyet 
 
-  {{Kişi bilgi kutusu
+{{Kişi bilgi kutusu
 }}
 
 '''Tuncay Çetin''' <ENAMEX_TYPE="p_dogum_tar">1987</ENAMEX> yılında Antalya'da doğdu. İlk ve 
@@ -5553,7 +5601,11 @@ kutusu
 
 }}
 
-'''Mustafa Doğan''' (d. 1 Ocak <ENAMEX_TYPE="p_dogum_tar">1976</ENAMEX> Almanya|Alman ve Türk vatandaşı defans 
+'''Mustafa Doğan''' (d. 1 Ocak <ENAMEX_TYPE="p_dogum_tar">1976</ENAMEX> Almanya|Alman ve Türk vatandaşı defans oyuncusu.
+
+== Kariyeri <ENAMEX_TYPE="p_dogum_yer"></ENAMEX> ==
+
+Türkiye doğumlu Mustafa Doğan'ın ailesi, 
 
 kutusu
 
@@ -5915,7 +5967,7 @@ Today }}</ref> (d. 29 Kasım <ENAMEX_TYPE="p_dogum_tar">1979</ENAMEX> name="Abou
 kutusu
 
 }}
-'''Orhan Şam''' (d. 1 Haziran <ENAMEX_TYPE="p_dogum_tar">1986</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Karadeniz Ereğli</ENAMEX> Zonguldak (il)|Zonguldak), Süper Lig 
+'''Orhan Şam''' (d. 1 Haziran <ENAMEX_TYPE="p_dogum_tar">1986</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Karadeniz</ENAMEX> Ereğli, Zonguldak (il)|Zonguldak), Süper Lig 
 
 '''Auguste Comte''' (d. 19 Ocak <ENAMEX_TYPE="p_dogum_tar">1798</ENAMEX> - ö. 5 Eylül <ENAMEX_TYPE="p_olum_tar">1857</ENAMEX> Fransız sosyoloji|sosyolog, matematikçi ve felsefe|filozoftur. Sosyolojinin babası olarak tanımlanabilir. 
 
@@ -5931,7 +5983,7 @@ Kemali Söylemezoğlu''' (d. 3 Eylül <ENAMEX_TYPE="p_dogum_tar">1952</ENAMEX> <
 kutusu
 
 }}
-'''Murat Yıldırım''' (d. 18 Mayıs <ENAMEX_TYPE="p_dogum_tar">1987</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Çorum (il</ENAMEX> kariyerini Bursaspor'da sürdürmekte olan 
+'''Murat Yıldırım''' (d. 18 Mayıs <ENAMEX_TYPE="p_dogum_tar">1987</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Çorum</ENAMEX> (il)|Çorum), kariyerini Bursaspor'da sürdürmekte olan 
 
 kutusu
 
@@ -5955,7 +6007,7 @@ kutusu
 
 }}
 
-'''Joselito Vaca''' (d. 12 Ağustos <ENAMEX_TYPE="p_dogum_tar">1982</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Santa Cruz de la Sierra</ENAMEX> Bolivyalı 
+'''Joselito Vaca''' (d. 12 Ağustos <ENAMEX_TYPE="p_dogum_tar">1982</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Santa</ENAMEX> Cruz de la Sierra), Bolivyalı 
 
 Catlett Marshall''' (d. 31 Aralık <ENAMEX_TYPE="p_dogum_tar">1880</ENAMEX> - ö. 16 Ekim <ENAMEX_TYPE="p_olum_tar">1959</ENAMEX> II. Dünya Savaşı sırasında Amerika 
 
@@ -6075,7 +6127,7 @@ kutusu
 
 == 
 
-Félix Granero Molina''',(d. 2 Temmuz <ENAMEX_TYPE="p_dogum_tar">1987</ENAMEX> İspanyol futbolcu. İngiltere'nin Queens Park 
+Félix Granero Molina''',(d. 2 Temmuz <ENAMEX_TYPE="p_dogum_tar">1987</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Madrid</ENAMEX> İspanyol futbolcu. İngiltere'nin Queens Park 
 
 British Columbia|OBC (d. 26 Nisan <ENAMEX_TYPE="p_dogum_tar">1932</ENAMEX> – ö. 4 Ekim <ENAMEX_TYPE="p_olum_tar">2000</ENAMEX> Britanya asıllı Kanadalı biyokimyacı. Kary 
 
@@ -6154,7 +6206,7 @@ kutusu
 {{Yazar bilgi kutusu
 
 }}
-'''Toktamış Ateş''' (d. <ENAMEX_TYPE="p_dogum_tar">1944</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">İstanbul<ref>{{Web kaynağı | url = http://gundem.bugun.com.tr/toktamis</ENAMEX> 
+'''Toktamış Ateş''' (d. <ENAMEX_TYPE="p_dogum_tar">1944</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">İstanbul<ref>{{Web</ENAMEX> kaynağı | url = http://gundem.bugun.com.tr/toktamis-ates-kimdir-haberi/219640/ 
 
 | erişimtarihi = 19 Ocak <ENAMEX_TYPE="p_olum_tar">2013</ENAMEX> | yayımcı = bugun.com.tr | 
 
@@ -6192,7 +6244,7 @@ kutusu
 kutusu
 
 }}
-'''Emiliano Insúa''' (d. 7 Ocak <ENAMEX_TYPE="p_dogum_tar">1989</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Buenos Aires</ENAMEX> Madrid forması giyen Arjantinli 
+'''Emiliano Insúa''' (d. 7 Ocak <ENAMEX_TYPE="p_dogum_tar">1989</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Buenos</ENAMEX> Aires),Atlético Madrid forması giyen Arjantinli 
 
 anda Paris'te yaşayan, (26 Mayıs <ENAMEX_TYPE="p_dogum_tar">1986</ENAMEX> doğumlu) İspanyol-Fransız bayan oyuncu.<ref>{{Web kaynağı|url=http://www.20minutos.es/noticia/751909/3/espanoles/piratas/caribe 
 
@@ -6228,7 +6280,7 @@ kutusu
 
 }}
 
-'''German Denis''' (d. 10 Eylül <ENAMEX_TYPE="p_dogum_tar">1981</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Remedios de escalada</ENAMEX> Arjantin doğumlu Futbolcu.
+'''German Denis''' (d. 10 Eylül <ENAMEX_TYPE="p_dogum_tar">1981</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Remedios</ENAMEX> de escalada) Arjantin doğumlu Futbolcu.
 
 1997 
 
@@ -6301,7 +6353,7 @@ anlamı|Sabancı}}
 
 }}
 
-'''Şevket Sabancı''', (d. <ENAMEX_TYPE="p_dogum_tar">1936</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Kayseri Türkiye</ENAMEX> Türk işadamı.
+'''Şevket Sabancı''', (d. <ENAMEX_TYPE="p_dogum_tar">1936</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Kayseri</ENAMEX> Türkiye), Türk işadamı.
 
 Yüksek tahsilini İngiltere'de 
 
@@ -6352,6 +6404,10 @@ kutusu
 
 Suu Kyi (Burmese).svg|120pik) (19 Haziran <ENAMEX_TYPE="p_dogum_tar">1945</ENAMEX> demokrasi savunucusu, Myanmar Ulusal Demokrasi 
 
+yapmış Osmanlı devlet adamı. 
+
+==Hayatı== <ENAMEX_TYPE="p_dogum_yer">Mora</ENAMEX> doğumlu idi. Enderun'da eğitim gördü. 
+
 kutusu
 
 }}
@@ -6362,11 +6418,7 @@ veya '''Santana''', (d. 20 Temmuz <ENAMEX_TYPE="p_dogum_tar">1947</ENAMEX> ünl�
 
 {{düzenle|Ocak <ENAMEX_TYPE="p_olum_tar">2012</ENAMEX> bilgi kutusu
 
-}}
-
-      
-
-<ENAMEX_TYPE="p_dogum_yer">Adana</ENAMEX> doğumludur. Almanya'da lise eğitimini tamamlamış 
+}} <ENAMEX_TYPE="p_dogum_yer">Adana</ENAMEX> doğumludur. Almanya'da lise eğitimini tamamlamış 
 
 televizyon yönetmenleri
 Kategori:Türk senaristler
@@ -6408,13 +6460,13 @@ anlamı|Sabancı}}
 {{Kişi bilgi kutusu
 
 }}
-'''Murat Sabancı''' (d. <ENAMEX_TYPE="p_dogum_tar">1967</ENAMEX> Tenik ve İhsan Sabancı çiftinin 
+'''Murat Sabancı''' (d. <ENAMEX_TYPE="p_dogum_tar">1967</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Adana</ENAMEX> Tenik ve İhsan Sabancı çiftinin 
 
 anlamı|Sabancı}}
 {{Kişi bilgi kutusu
 
 }}
-'''Sevgi Sabancı''' (d. <ENAMEX_TYPE="p_dogum_tar">1963</ENAMEX> Tenik ve İhsan Sabancı çiftinin 
+'''Sevgi Sabancı''' (d. <ENAMEX_TYPE="p_dogum_tar">1963</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Adana</ENAMEX> Tenik ve İhsan Sabancı çiftinin 
 
 kutusu
 
@@ -6477,7 +6529,7 @@ bilgi kutusu
 
 Tiyatrocu 
 
-kısaca ''Kaká'' (d. 22 Nisan <ENAMEX_TYPE="p_dogum_tar">1982</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Sao Paulo</ENAMEX> Brezilya) Brezilyalı millî futbolcu.Real 
+kısaca ''Kaká'' (d. 22 Nisan <ENAMEX_TYPE="p_dogum_tar">1982</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Sao</ENAMEX> Paulo, Brezilya) Brezilyalı millî futbolcu.Real 
 
 Serhat Akın''' (d. 5 Haziran <ENAMEX_TYPE="p_dogum_tar">1981</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Bretten</ENAMEX> Türk futbolcu. TFF 2.Lig|Spor Toto 
 
@@ -6551,7 +6603,7 @@ Doçent Doktor '''Metin Özarslan''', (d. <ENAMEX_TYPE="p_dogum_tar">1962</ENAME
 kutusu
 
 }}
-'''Viktor Orbán''' (d. 31 Mayıs <ENAMEX_TYPE="p_dogum_tar">1963</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">İstolni Belgrad</ENAMEX> Macaristan Halk Cumhuriyeti|Macaristan), Macar 
+'''Viktor Orbán''' (d. 31 Mayıs <ENAMEX_TYPE="p_dogum_tar">1963</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">İstolni</ENAMEX> Belgrad, Macaristan Halk Cumhuriyeti|Macaristan), Macar 
 
 Doğukan Pala''' (d. 10 Temmuz <ENAMEX_TYPE="p_dogum_tar">1992</ENAMEX> Eminönü, İstanbul), Türk futbolcu. Beşiktaş 
 
@@ -6569,7 +6621,7 @@ kutusu
 }}
 '''Nihat Kahveci''' (d. 23 Kasım <ENAMEX_TYPE="p_dogum_tar">1979</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">İstanbul</ENAMEX> forvet mevkinde görev yapmış Türk 
 
-de Almeida''' (d. 23 Mayıs <ENAMEX_TYPE="p_dogum_tar">1984</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Figueira da Foz</ENAMEX> Santrafor mevkinde forma 
+de Almeida''' (d. 23 Mayıs <ENAMEX_TYPE="p_dogum_tar">1984</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Figueira</ENAMEX> da Foz) Santrafor mevkinde forma 
 
 kutusu
 
@@ -6648,7 +6700,7 @@ bilgi kutusu
 }}
 '''Leo Strauss''' (20 Eylül <ENAMEX_TYPE="p_dogum_tar">1899</ENAMEX> – 18 Ekim <ENAMEX_TYPE="p_olum_tar">1973</ENAMEX> Alman kökenli ABD'li siyaset felsefecisi. 
 
-Whitney Hilton''', (d. 17 Şubat <ENAMEX_TYPE="p_dogum_tar">1981</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">New York</ENAMEX> ABD'li sosyoelit, şarkıcı, aktris, 
+Whitney Hilton''', (d. 17 Şubat <ENAMEX_TYPE="p_dogum_tar">1981</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">New</ENAMEX> York). ABD'li sosyoelit, şarkıcı, aktris, 
 
 Mesûd Barzanî; (d. 16 Ağustos <ENAMEX_TYPE="p_dogum_tar">1946</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Mahabad</ENAMEX> Kürt siyasetçi.
 
@@ -6671,7 +6723,7 @@ bilgi kutusu
 }}
 '''Tiziano Ferro''', 21 Şubat <ENAMEX_TYPE="p_dogum_tar">1980</ENAMEX> tarihinde Latina doğumlu İtalyan pop 
 
-{{farklı anlam|<ENAMEX_TYPE="p_dogum_tar">1952</ENAMEX> doğumlu Yunan siyasetçi|1888 doğumlu Yunan 
+{{farklı anlam| <ENAMEX_TYPE="p_dogum_tar">1952</ENAMEX> doğumlu Yunan siyasetçi|1888 doğumlu Yunan 
 
 Papandreu''' (d. 16 Haziran 1952, <ENAMEX_TYPE="p_dogum_yer">Minnesota</ENAMEX> Amerika Birleşik Devletleri|ABD), Yunanistan eski 
 
@@ -6723,7 +6775,7 @@ Kiyoko''', ( '''d.''' 3 Nisan <ENAMEX_TYPE="p_dogum_tar">1991</ENAMEX> ) Hayley 
 
 Richard Emerson Smith, 26 Haziran <ENAMEX_TYPE="p_dogum_tar">1922</ENAMEX> Westchester County, New York|Westchester, New 
 
-Richards Minot'''  (2 Aralık <ENAMEX_TYPE="p_dogum_tar"><ENAMEX_TYPE="p_olum_tar">1885</ENAMEX> - 12 Şubat 1950) ABD'li 
+Richards Minot'''  (2 Aralık <ENAMEX_TYPE="p_dogum_tar"> <ENAMEX_TYPE="p_olum_tar">1885</ENAMEX> - 12 Şubat 1950) ABD'li 
 
 David Anderson''', (d. 3 Eylül <ENAMEX_TYPE="p_dogum_tar">1905</ENAMEX> New <ENAMEX_TYPE="p_dogum_yer">York</ENAMEX> Birleşik Devletleri|ABD - ö. 11 Ocak <ENAMEX_TYPE="p_olum_tar">1991</ENAMEX> San Marino, Kaliforniya,Amerika Birleşik Devletleri|ABD) 
 
@@ -6737,7 +6789,7 @@ kutusu
 
 "Dan" Schneider''' (d. 14 Ocak <ENAMEX_TYPE="p_dogum_tar">1966</ENAMEX> ABD'li söz yazarı,<ref>{{Web kaynağı|başlık=Repertoire Search|url=http://repertoire.bmi.com/writer.asp?blnWriter=True&blnPublisher=True&blnArtist=True&page=1&fromrow=1&torow=25&querytype=WriterID&keyid=886510&keyname=SCHNEIDER+DAN&CAE=0&Affiliation=NA|yayımcı=Broadcast 
 
-{{farklı anlam|<ENAMEX_TYPE="p_olum_tar">1595</ENAMEX> yılında Sadrazamlık yapmış olan bir 
+{{farklı anlam| <ENAMEX_TYPE="p_olum_tar">1595</ENAMEX> yılında Sadrazamlık yapmış olan bir 
 
 kutusu
 
@@ -6882,7 +6934,7 @@ yaşadı.
 == Güreş öncesi yaşamı ==	
 Sarkodie-Mensah <ENAMEX_TYPE="p_dogum_yer">Gana'da</ENAMEX> doğdu, ailesiyle birlikte 1992 yılında 
 
-Gardenzio Stallone''' (d. 6 Temmuz <ENAMEX_TYPE="p_dogum_tar">1946</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">New York</ENAMEX> İtalyan asıllı Amerikalı oyuncu, 
+Gardenzio Stallone''' (d. 6 Temmuz <ENAMEX_TYPE="p_dogum_tar">1946</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">New</ENAMEX> York), İtalyan asıllı Amerikalı oyuncu, 
 
 güreşen bir amerikan güreşcisidir.25 Şubat, <ENAMEX_TYPE="p_dogum_tar">1949</ENAMEX> yılında doğmuştur.Zamanında AWA , NWA 
 
@@ -6893,7 +6945,7 @@ William Aston''' (d. 1 Eylül <ENAMEX_TYPE="p_dogum_tar">1877</ENAMEX> – ö. 2
 1483 - ö. 6 Nisan <ENAMEX_TYPE="p_olum_tar">1520</ENAMEX> ünlü İtalyan ressam. ''Raffaello'', ''Raffaello 
 
 
-'''Kolo Touré''' (d. 19 Mart <ENAMEX_TYPE="p_dogum_tar">1981</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Sokuora Bouake</ENAMEX> Fildişi Sahili), Manchester City 
+'''Kolo Touré''' (d. 19 Mart <ENAMEX_TYPE="p_dogum_tar">1981</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Sokuora</ENAMEX> Bouake, Fildişi Sahili), Manchester City 
 
 Fučík (writer)}}
 '''Julius Fučík''' (23 Şubat <ENAMEX_TYPE="p_dogum_tar">1903</ENAMEX> Prag - 8 Eylül <ENAMEX_TYPE="p_olum_tar">1943</ENAMEX> Berlin), Çek Cumhuriyeti|Çek gazeteci.
@@ -6951,11 +7003,11 @@ kutusu
 }}
 '''Cengiz Topel''' (d. <ENAMEX_TYPE="p_dogum_tar">1934</ENAMEX> İzmit – ö. <ENAMEX_TYPE="p_olum_tar">1964</ENAMEX> Kıbrıs (ada)|Kıbrıs), Türk pilot yüzbaşı. 
 
-adı '''Hulk''' (d. 25 Temmuz <ENAMEX_TYPE="p_dogum_tar">1986</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Campina Grande</ENAMEX> Brezilyalı Futbolcu. Zenit St. 
+adı '''Hulk''' (d. 25 Temmuz <ENAMEX_TYPE="p_dogum_tar">1986</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Campina</ENAMEX> Grande), Brezilyalı Futbolcu. Zenit St. 
 
 de Lima''' (d. 12 Ekim <ENAMEX_TYPE="p_dogum_tar">1989</ENAMEX> Brezilyalı millî futbolcu. '''Paulo Henrique 
 
-ismiyle '''Neymar''' (d. 5 Şubat <ENAMEX_TYPE="p_dogum_tar">1992</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Mogi das Cruzes</ENAMEX> Orta Saha|Kanat, Forvet 
+ismiyle '''Neymar''' (d. 5 Şubat <ENAMEX_TYPE="p_dogum_tar">1992</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Mogi</ENAMEX> das Cruzes), Orta Saha|Kanat, Forvet 
 
 Martínez Aginaga''' (d. 2 Eylül <ENAMEX_TYPE="p_dogum_tar">1988</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Estella</ENAMEX> Bundesliga takımlarından FC Bayern Münih'te 
 
@@ -6988,7 +7040,7 @@ Wilhelmina Frankenberg'''; (d. 15 Şubat <ENAMEX_TYPE="p_dogum_tar">1951</ENAMEX
 Takım}}
 {{MedalBottom}}
 
-'''Rainer Bonhof''' (d. 29 Mart <ENAMEX_TYPE="p_dogum_tar">1952</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Emmerich am Rhein</ENAMEX> Kuzey Ren-Vestfalya), Alman 
+'''Rainer Bonhof''' (d. 29 Mart <ENAMEX_TYPE="p_dogum_tar">1952</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Emmerich</ENAMEX> am Rhein, Kuzey Ren-Vestfalya), Alman 
 
 bilgi kutusu
 
@@ -7003,7 +7055,7 @@ kutusu
 
 Wight, Jr.''' (d. 8 Şubat <ENAMEX_TYPE="p_dogum_tar">1972</ENAMEX> daha iyi bilinen adıyla, Big 
 
-Batista Libânio''' (d. 2 Nisan <ENAMEX_TYPE="p_dogum_tar">1979</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">São Paulo</ENAMEX> Brezilyalı futbolcu. 
+Batista Libânio''' (d. 2 Nisan <ENAMEX_TYPE="p_dogum_tar">1979</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">São</ENAMEX> Paulo) Brezilyalı futbolcu. 
 
 21 yaşına 
 
@@ -7065,6 +7117,10 @@ bilgi kutusu
 
 }} '''Melek Baykal''', ( <ENAMEX_TYPE="p_dogum_tar">1954</ENAMEX> tiyatro ve dizi sanatçısı Aslen 
 
+ardından gelen teklifleri değerlendirerek, İstanbul'a <ENAMEX_TYPE="p_dogum_yer"></ENAMEX> yerleşmiştir.
+
+İstanbul doğumlu olan ve henüz 
+
 bilgi kutusu
 
 }}
@@ -7110,7 +7166,7 @@ kutusu
 
 }}
 
-'''Cem Özdemir''' (d. 21 Aralık <ENAMEX_TYPE="p_dogum_tar">1965</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Bad Urach</ENAMEX> Türkler|Türk kökenli Almanlar|Alman siyasetçi. 
+'''Cem Özdemir''' (d. 21 Aralık <ENAMEX_TYPE="p_dogum_tar">1965</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Bad</ENAMEX> Urach), Türkler|Türk kökenli Almanlar|Alman siyasetçi. 
 
 Julianne rolünü canlandırdı. 
 {{ABD'li oyuncu-taslak}}
@@ -7262,7 +7318,7 @@ Dönem==
 {{Kişi bilgi kutusu
 
 }}
-'''Şehzade Mustafa''' (<ENAMEX_TYPE="p_dogum_tar">1515</ENAMEX> Manisa -  6 Ekim <ENAMEX_TYPE="p_olum_tar">1553</ENAMEX> Konya), Sultan Süleyman'ın Mahidevran Sultan'dan 
+'''Şehzade Mustafa''' ( <ENAMEX_TYPE="p_dogum_tar">1515</ENAMEX> Manisa -  6 Ekim <ENAMEX_TYPE="p_olum_tar">1553</ENAMEX> Konya), Sultan Süleyman'ın Mahidevran Sultan'dan 
 
 Kanuni Sultan Süleyman’ın şehzadeliği sırasında <ENAMEX_TYPE="p_dogum_yer">Manisa’da</ENAMEX> dünyaya geldi. Dedesi  Yavuz 
 
@@ -7306,7 +7362,7 @@ Koçyiğit,
 kutusu
 
 }}
-'''Candan Erçetin''' (d. 10 Şubat <ENAMEX_TYPE="p_dogum_tar">1963</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Kırklareli <ref name="hayatı" /></ENAMEX> Türk şarkıcı. 
+'''Candan Erçetin''' (d. 10 Şubat <ENAMEX_TYPE="p_dogum_tar">1963</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Kırklareli</ENAMEX> <ref name="hayatı" />) Türk şarkıcı. 
 
 adıyla '''Dario Moreno''' (3 Nisan <ENAMEX_TYPE="p_dogum_tar">1921</ENAMEX> Aydın-1 Aralık <ENAMEX_TYPE="p_olum_tar">1968</ENAMEX> İstanbul), Yahudi asıllı Türk gitarist, 
 
@@ -7426,7 +7482,7 @@ Galatasaray Lisesi
 
 Brianna Sparks''' (d. 22 Aralık <ENAMEX_TYPE="p_dogum_tar">1989</ENAMEX> Amerika Birleşik Devletleri|ABD'li şarkıcı, söz 
 
-J. Augello-Cook''', (d. 25 Ocak <ENAMEX_TYPE="p_dogum_tar">1981</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">New York</ENAMEX> bilinen adıyla '''Alicia Keys''', 
+J. Augello-Cook''', (d. 25 Ocak <ENAMEX_TYPE="p_dogum_tar">1981</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">New</ENAMEX> York), bilinen adıyla '''Alicia Keys''', 
 
 
 
@@ -7466,7 +7522,7 @@ cs:Sean
 kutusu
 
 }}
-'''Eden Hazard''' (d. 7 Ocak <ENAMEX_TYPE="p_dogum_tar">1991</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">La Louvière</ENAMEX> Belçikalı milli futbolcu. Şu 
+'''Eden Hazard''' (d. 7 Ocak <ENAMEX_TYPE="p_dogum_tar">1991</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">La</ENAMEX> Louvière), Belçikalı milli futbolcu. Şu 
 
 bilgi kutusu
 
@@ -7500,7 +7556,7 @@ Michelle Leigh McCool (25 Ocak <ENAMEX_TYPE="p_dogum_tar">1980</ENAMEX> <ENAMEX_
 kutusu
 
 }}
-'''Ceyda Düvenci''' (d. 16 Nisan <ENAMEX_TYPE="p_dogum_tar">1977</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Bursa (il</ENAMEX>  Türk dizi oyuncusu.
+'''Ceyda Düvenci''' (d. 16 Nisan <ENAMEX_TYPE="p_dogum_tar">1977</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Bursa</ENAMEX> (il)|Bursa),  Türk dizi oyuncusu.
 
 İsmail 
 
@@ -7551,7 +7607,7 @@ kutusu
 Hayatı ==
 Boy George 14 Haziran <ENAMEX_TYPE="p_dogum_tar">1961</ENAMEX> yılında İngiltere , Londra'da Barnehurst 
 
-Charles Sparks''' (d. 31 Aralık <ENAMEX_TYPE="p_dogum_tar">1965</ENAMEX>  <ENAMEX_TYPE="p_dogum_yer">Omaha</ENAMEX> Nebraska). Amerika Birleşik Devletleri|ABD'li yazar 
+Charles Sparks''' (d. 31 Aralık <ENAMEX_TYPE="p_dogum_tar">1965</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Omaha</ENAMEX> Nebraska). Amerika Birleşik Devletleri|ABD'li yazar 
 
 adıyla '''Nicole''' (d. 19 Ocak <ENAMEX_TYPE="p_dogum_tar">1977</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Santiago</ENAMEX> Şili), Şilili şarkıcı ve aktris. 
 
@@ -7572,12 +7628,11 @@ Sezer}}
 
 takma adıyla '''Johnny Sins''' (d. <ENAMEX_TYPE="p_dogum_tar">1979</ENAMEX> Amerika Birleşik Devletleri|ABD'li pornografik film 
 
-
 {{Oyuncu bilgi kutusu
 
 }}
 
-'''Osman Cavcı''' (d.<ENAMEX_TYPE="p_dogum_tar">1962</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">İstanbul</ENAMEX> Türk sinema ve tiyatro oyuncusudur.
+'''Osman Cavcı''' (d. <ENAMEX_TYPE="p_dogum_tar">1962</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">İstanbul</ENAMEX> Türk sinema ve tiyatro oyuncusudur.
 
 ==Hayatı==
 
@@ -7595,7 +7650,7 @@ Rae Jepsen''' (d. 21 Kasım <ENAMEX_TYPE="p_dogum_tar">1985</ENAMEX> <ENAMEX_TYP
 kutusu
 
 }}
-'''Thomas Müller''' (d. 13 Eylül <ENAMEX_TYPE="p_dogum_tar">1989</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Weilheim in Oberbayern|Weilheim</ENAMEX> Almanya), orta saha|hücüma 
+'''Thomas Müller''' (d. 13 Eylül <ENAMEX_TYPE="p_dogum_tar">1989</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Weilheim</ENAMEX> in Oberbayern|Weilheim, Almanya), orta saha|hücüma 
 
 kutusu
 
@@ -7610,7 +7665,7 @@ Los Angeles
 kutusu
 
 }}
-'''Axel Witsel''' (d. 12 Ocak <ENAMEX_TYPE="p_dogum_tar">1989</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Liège (şehir</ENAMEX> Rusya Premier Ligi takımlarından 
+'''Axel Witsel''' (d. 12 Ocak <ENAMEX_TYPE="p_dogum_tar">1989</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Liège</ENAMEX> (şehir)|Liège) Rusya Premier Ligi takımlarından 
 
 bilgi kutusu
 
@@ -7637,7 +7692,7 @@ kutusu
 
 Jacqueline Longoria''', (d. 15 Mart <ENAMEX_TYPE="p_dogum_tar">1975</ENAMEX> Altın Küre Ödülleri|Altın Küre ödüllü 
 
-'''Chevy Chase''' ''(d. 8 Ekim <ENAMEX_TYPE="p_dogum_tar">1943</ENAMEX> - <ENAMEX_TYPE="p_dogum_yer">New York</ENAMEX> Amerika Birleşik Devletleri|ABD)''
+'''Chevy Chase''' ''(d. 8 Ekim <ENAMEX_TYPE="p_dogum_tar">1943</ENAMEX> - <ENAMEX_TYPE="p_dogum_yer">New</ENAMEX> York, Amerika Birleşik Devletleri|ABD)''
 
 {{Oyuncu bilgi 
 
@@ -7651,7 +7706,7 @@ Seymour Hoffman''' ''(d. 23 Temmuz <ENAMEX_TYPE="p_dogum_tar">1967</ENAMEX> Osca
 
 Cole Sprouse''' (d. 4 Ağustos <ENAMEX_TYPE="p_dogum_tar">1992</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Arezzo</ENAMEX> Toskana), Amerika Birleşik Devletleri|ABD'li ikiz 
 
-Aoki ''' (d. 10 Ağustos <ENAMEX_TYPE="p_dogum_tar">1982</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">New York</ENAMEX> Amerika Birleşik Devletleri|ABD). Japon 
+Aoki ''' (d. 10 Ağustos <ENAMEX_TYPE="p_dogum_tar">1982</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">New</ENAMEX> York, Amerika Birleşik Devletleri|ABD). Japon 
 
 Sánchez Mata''' (d. 8 Eylül <ENAMEX_TYPE="p_dogum_tar">1987</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">İspanya</ENAMEX> FC Barcelona|Barcelonalı İspanya|İspanyol futbolcu.
 
@@ -7661,7 +7716,7 @@ Denise Anderson''' (d. 1 Temmuz <ENAMEX_TYPE="p_dogum_tar">1967</ENAMEX> Kanada 
 
 "Bill" Fagerbakke''' (doğum 4 Ekim, <ENAMEX_TYPE="p_dogum_tar">1957</ENAMEX> Fontana, California) Amerikan aktör ve 
 
-Jette Martin''', (d. 18 Şubat <ENAMEX_TYPE="p_dogum_tar">1992</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Las Vegas</ENAMEX> Nevada) Amerikalı aktris. Bugünkü 
+Jette Martin''', (d. 18 Şubat <ENAMEX_TYPE="p_dogum_tar">1992</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Las</ENAMEX> Vegas, Nevada) Amerikalı aktris. Bugünkü 
 
 kutusu
 
@@ -7934,7 +7989,7 @@ Avrupa'nın en
 kutusu
 
 }}
-'''Macide Tanır''', (d. 1 Ocak <ENAMEX_TYPE="p_dogum_tar">1922</ENAMEX> - ö. 6 Şubat <ENAMEX_TYPE="p_olum_tar">2013</ENAMEX> kaynağı | url = http://www.radikal.com.tr/Radikal.aspx?aType=RadikalDetayV3&ArticleID=1120204&CategoryID=41 
+'''Macide Tanır''', (d. 1 Ocak <ENAMEX_TYPE="p_dogum_tar">1922</ENAMEX> - <ENAMEX_TYPE="p_dogum_yer"></ENAMEX> ö. 6 Şubat <ENAMEX_TYPE="p_olum_tar">2013</ENAMEX> kaynağı | url = http://www.radikal.com.tr/Radikal.aspx?aType=RadikalDetayV3&ArticleID=1120204&CategoryID=41 
 
 Anabilim Dalı.</ref> (1465-70, Gelibolu - <ENAMEX_TYPE="p_olum_tar">1554</ENAMEX> Kahire), Türk-Osmanlı denizci ve Kartografya|kartografı. 
 
@@ -8075,7 +8130,7 @@ Celāleddīn Muhammed Rūmī (30 Eylül <ENAMEX_TYPE="p_dogum_tar">1207</ENAMEX>
 
 Zaman zaman Birgün 
 
-Emmanuel Culio''' (d. 30 Ağustos <ENAMEX_TYPE="p_dogum_tar">1983</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Buenos Aires</ENAMEX> Arjantin),  Mersin İdman 
+Emmanuel Culio''' (d. 30 Ağustos <ENAMEX_TYPE="p_dogum_tar">1983</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Buenos</ENAMEX> Aires, Arjantin),  Mersin İdman 
 
 '''Diego Milito''' (d. 12 Haziran <ENAMEX_TYPE="p_dogum_tar">1979</ENAMEX> Bernal, Buenos Aires, Arjantin), Arjantinli 
 
@@ -8173,7 +8228,7 @@ kutusu
 bilgi kutusu
  }}
 
-'''Hatice Sultan''' (d. <ENAMEX_TYPE="p_dogum_tar">1496</ENAMEX> ö.<ENAMEX_TYPE="p_olum_tar">1538</ENAMEX> I. Selim ve Ayşe Hafsa 
+'''Hatice Sultan''' (d. <ENAMEX_TYPE="p_dogum_tar">1496</ENAMEX> ö. <ENAMEX_TYPE="p_olum_tar">1538</ENAMEX> I. Selim ve Ayşe Hafsa 
 
 / Hace Nizāmülmülk Tūsī; d. <ENAMEX_TYPE="p_dogum_tar">1018</ENAMEX> - o. 14 Ekim <ENAMEX_TYPE="p_olum_tar">1092</ENAMEX> Büyük Selçuklu Devleti'nin veziri ve 
 
@@ -8202,6 +8257,8 @@ Yılmaz'''  (d. 5 Şubat, <ENAMEX_TYPE="p_dogum_tar">1974</ENAMEX> İstanbul, T�
 adıyla '''Ne-Yo''' (d. 18 Ekim <ENAMEX_TYPE="p_dogum_tar">1979</ENAMEX> Amerika Birleşik Devletleri|ABD'li bir R&B 
 
 ''Abbas Kiarostami'', d. 22 Haziran <ENAMEX_TYPE="p_dogum_tar">1940</ENAMEX> Tahran, İran), dünya çapında tanınan 
+
+Tahran Üniversitesi Güzel Sanatlar Fakültesi. <ENAMEX_TYPE="p_dogum_yer">Tahran</ENAMEX> doğumludur. Sanata ilişkin ilk deneyimi 
 
 Nicole Simpson''' (d. 3 Ekim <ENAMEX_TYPE="p_dogum_tar">1984</ENAMEX> Amerika Birleşik Devletleri|ABD'li, pop rock 
 
@@ -8240,7 +8297,7 @@ karşı savaş emri verdikten sonra <ENAMEX_TYPE="p_olum_tar">1792</ENAMEX> yıl
 Viyana´nin''Türkenschanzpark'' parkında bulunmaktadır.
 '''Yunus Emre''' ( <ENAMEX_TYPE="p_dogum_tar">1240</ENAMEX> - <ENAMEX_TYPE="p_olum_tar">1321</ENAMEX> Anadolu'da Türkçe şiirin öncüsü olan 
 
-Sydney Poitier''', (d. 20 Şubat <ENAMEX_TYPE="p_dogum_tar">1927</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Cat Island</ENAMEX> Bahama kökenli ABD'li oyuncu, 
+Sydney Poitier''', (d. 20 Şubat <ENAMEX_TYPE="p_dogum_tar">1927</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Cat</ENAMEX> Island), Bahama kökenli ABD'li oyuncu, 
 
 sanatçısı bilgi kutusu
 
@@ -8322,7 +8379,7 @@ kutusu
 
 }}
 
-'''Adolf Hitler''' (d. 20 Nisan <ENAMEX_TYPE="p_dogum_tar">1889</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Braunau am Inn</ENAMEX> - ö. 30 Nisan <ENAMEX_TYPE="p_olum_tar">1945</ENAMEX> Berlin), Avusturya asıllı Alman politika|politikacı, 
+'''Adolf Hitler''' (d. 20 Nisan <ENAMEX_TYPE="p_dogum_tar">1889</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Braunau</ENAMEX> am Inn - ö. 30 Nisan <ENAMEX_TYPE="p_olum_tar">1945</ENAMEX> Berlin), Avusturya asıllı Alman politika|politikacı, 
 
 bilgi kutusu
 
@@ -8465,7 +8522,7 @@ Joseph Fourier''', (d. 21 Mart <ENAMEX_TYPE="p_dogum_tar">1768</ENAMEX> <ENAMEX_
 
 Wilson Reagan''' (d. 6 Şubat <ENAMEX_TYPE="p_dogum_tar">1911</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Illinois</ENAMEX> - ö. 5 Haziran <ENAMEX_TYPE="p_olum_tar">2004</ENAMEX> Kaliforniya),  33. (1967-1975) Kaliforniya 
 
-Graham Bell''', (d. 3 Mart <ENAMEX_TYPE="p_dogum_tar">1847</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Edinburgh İskoçya</ENAMEX> - ö. 2 Ağustos <ENAMEX_TYPE="p_olum_tar">1922</ENAMEX> Baddeck Kanada), 1876'da telefonun icadı 
+Graham Bell''', (d. 3 Mart <ENAMEX_TYPE="p_dogum_tar">1847</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Edinburgh</ENAMEX> İskoçya - ö. 2 Ağustos <ENAMEX_TYPE="p_olum_tar">1922</ENAMEX> Baddeck Kanada), 1876'da telefonun icadı 
 
 Кустурица'''  (d. 24 Kasım, <ENAMEX_TYPE="p_dogum_tar">1954</ENAMEX> Saraybosna, Yugoslavya) Sırp yönetmen. 
 
@@ -8552,7 +8609,7 @@ kutusu
 }}
 '''Sabri Sarıoğlu''', (d. 26 Temmuz <ENAMEX_TYPE="p_dogum_tar">1984</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Çarşamba</ENAMEX> Samsun|Çarşamba, Samsun) Türk millî futbolcu. 
 
-ismiyle '''Pelé''' (d. 23 Ekim <ENAMEX_TYPE="p_dogum_tar">1940</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Três Corações</ENAMEX> forvet mevkiinde görev almış 
+ismiyle '''Pelé''' (d. 23 Ekim <ENAMEX_TYPE="p_dogum_tar">1940</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Três</ENAMEX> Corações), forvet mevkiinde görev almış 
 
 '''Âşık Veysel''' (d. 25 Ekim <ENAMEX_TYPE="p_dogum_tar">1894</ENAMEX> Şarkışla, Sivas - ö. 21 Mart <ENAMEX_TYPE="p_olum_tar">1973</ENAMEX> Türk halk ozanı. Avşar boyunun 
 
@@ -8561,7 +8618,7 @@ ismiyle '''Pelé''' (d. 23 Ekim <ENAMEX_TYPE="p_dogum_tar">1940</ENAMEX> <ENAMEX
 
 Bernard Shaw''' (d. 26 Temmuz <ENAMEX_TYPE="p_dogum_tar">1856</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Dublin</ENAMEX> İrlanda - 2 Kasım <ENAMEX_TYPE="p_olum_tar">1950</ENAMEX> Hertfordshire, İngiltere), İrlandalı yazar. Oyun 
 
-adıyla '''Madonna''' (d. 16 Ağustos <ENAMEX_TYPE="p_dogum_tar">1958</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Bay City</ENAMEX> Michigan|Bay City, Michigan), Amerika 
+adıyla '''Madonna''' (d. 16 Ağustos <ENAMEX_TYPE="p_dogum_tar">1958</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Bay</ENAMEX> City, Michigan|Bay City, Michigan), Amerika 
 
 / '' '''d.''' 22 Eylül <ENAMEX_TYPE="p_dogum_tar">1902</ENAMEX> Humeyn - '''ö.''' 3 Haziran <ENAMEX_TYPE="p_olum_tar">1989</ENAMEX> Tahran)'', İran İslam Devrimi'nin siyasi, 
 
@@ -8618,6 +8675,10 @@ Afrika Yıldızı, d. 13 Aralık <ENAMEX_TYPE="p_dogum_tar">1919</ENAMEX> Charlo
 
 Robert "Bob" Marley''' (6 Şubat <ENAMEX_TYPE="p_dogum_tar">1945</ENAMEX> - 11 Mayıs <ENAMEX_TYPE="p_olum_tar">1981</ENAMEX> Miami), Jamaikalı reggae sanatçısı. Bob 
 
+dil bilen Kleopatra zeki bir <ENAMEX_TYPE="p_dogum_yer"></ENAMEX> kadındı.
+
+İskenderiye'de doğdu. Aslen Yunan olan 
+
 Enver Sedat''' (d. 25 Aralık <ENAMEX_TYPE="p_dogum_tar">1918</ENAMEX> – ö. 6 Ekim <ENAMEX_TYPE="p_olum_tar">1981</ENAMEX> Mısır'ın üçüncü devlet başkanıdır.
 
 Mısır Kralı 
@@ -8635,7 +8696,7 @@ Locke''' Somerset (d. 29 Ağustos <ENAMEX_TYPE="p_dogum_tar">1632</ENAMEX> – �
 Hayatı ==
 John Locke, Bristol yakınlarında, <ENAMEX_TYPE="p_dogum_yer">Wrington'da</ENAMEX> doğdu. Kumaş ticareti ile uğraşan 
 
-''kısaca Ronaldo'' (d. 18 Eylül <ENAMEX_TYPE="p_dogum_tar">1976</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Rio de Janeiro</ENAMEX> Brezilyalı eski futbolcu. 
+''kısaca Ronaldo'' (d. 18 Eylül <ENAMEX_TYPE="p_dogum_tar">1976</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Rio</ENAMEX> de Janeiro) Brezilyalı eski futbolcu. 
 
 (Farsça: '''عمر خیام''')(d. 18 Mayıs <ENAMEX_TYPE="p_dogum_tar">1048</ENAMEX> - ö. 4 Aralık <ENAMEX_TYPE="p_olum_tar">1131</ENAMEX> İranlı şâir, filozof, matematikçi ve 
 
@@ -8662,7 +8723,7 @@ bilgi kutusu
 
 Ribéry'''  (d. 7 Nisan <ENAMEX_TYPE="p_dogum_tar">1983</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Boulogne</ENAMEX> Fransa) Fransız Fransa Millî Futbol 
 
-da Silva''', (d. 7 Ekim <ENAMEX_TYPE="p_dogum_tar">1976</ENAMEX> - <ENAMEX_TYPE="p_dogum_yer">Lagoa da Prata</ENAMEX> Brezilya) Brezilya Milli 
+da Silva''', (d. 7 Ekim <ENAMEX_TYPE="p_dogum_tar">1976</ENAMEX> - <ENAMEX_TYPE="p_dogum_yer">Lagoa</ENAMEX> da Prata, Brezilya) Brezilya Milli 
 
 fotoğrafı
 '''Arthur Schopenhauer''' (d. 22 Şubat <ENAMEX_TYPE="p_dogum_tar">1788</ENAMEX> <ENAMEX_TYPE="p_dogum_yer">Danzig</ENAMEX> - 21 Eylül <ENAMEX_TYPE="p_olum_tar">1860</ENAMEX> Frankfurt), Alman bir filozof, yazar 
