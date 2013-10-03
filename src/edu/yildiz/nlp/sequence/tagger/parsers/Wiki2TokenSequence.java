@@ -43,12 +43,23 @@ import edu.yildiz.nlp.sequence.tagger.features.FC;
                 if (word.contains("<ENAMEX_TYPE="))
                 {
                     try{
-                    label = word.substring(0,word.indexOf("\">")+2);
-                word=word.substring(word.indexOf("\">")+2,word.indexOf("</"));
+                        //TODO Canan Deneme burayı mutlaka sil!!!!!!!!!!!!!111
+
+                        if (!word.contains("<ENAMEX_TYPE=\"p_dogum_yer\">"))
+                        {
+                            label = word.substring(0,word.indexOf("\">")+2);
+                            if (!label.equals("<ENAMEX_TYPE=\"p_dogum_tar\">") && !label.contains("<ENAMEX_TYPE=\"p_olum_tar\">"))
+                            {
+                                String hoop="goop";
+                            }
+                        } else   { label =  "<ENAMEX_TYPE=\"O\">";}
+
+                    word=word.substring(word.indexOf("\">")+2,word.indexOf("</"));
                     }catch(Exception ex)
                     {
                         errorCount++;
                         System.out.println("ERROR-"+line);
+                        System.err.println(ex.getStackTrace());
                         continue;
                     }
                 } else
@@ -62,7 +73,7 @@ import edu.yildiz.nlp.sequence.tagger.features.FC;
                 tokenLines[i]=word;
                 Token token = new Token(word);
                 token.setFeatureValue("W=" + word, 1);
-
+                    tokenLines[i]=originWord;
                 //                      transform
                 dc = doDigitalCollapse(word);
                 if (dc!=null)

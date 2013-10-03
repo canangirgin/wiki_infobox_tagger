@@ -2,7 +2,6 @@
   <library name="lib">
     <CLASSES>
       <root url="jar://$PROJECT_DIR$/lib/commons-cli-1.2.jar!/" />
-      <root url="jar://$PROJECT_DIR$/lib/mallet.2.0rc4.jar!/" />
       <root url="jar://$PROJECT_DIR$/lib/trove-2.0.2.jar!/" />
       <root url="jar://$PROJECT_DIR$/lib/bsh.jar!/" />
     </CLASSES>
