@@ -73,7 +73,7 @@ import edu.yildiz.nlp.sequence.tagger.features.FC;
                 tokenLines[i]=word;
                 Token token = new Token(word);
                 token.setFeatureValue("W=" + word, 1);
-                    tokenLines[i]=originWord;
+                //tokenLines[i]=originWord;
                 //                      transform
                 dc = doDigitalCollapse(word);
                 if (dc!=null)
