@@ -38,60 +38,62 @@ public class InfoFeatureFactory extends CompositeFeatureFactory {
         //(YIS-CRF-02)
         new RegexMatches("STARTNONUM", Pattern.compile("^[^\\d].*")),
         //(YIS-CRF-03)
-        new RegexMatches("HASLESSTHREELETTER", Pattern.compile("("+FC.CAPS+"|"+FC.LOW+"){3}")),
+        //new RegexMatches("HASLESSTHREELETTER", Pattern.compile("("+FC.CAPS+"|"+FC.LOW+"){3}")),
         //(YIS-CRF-04)
-        new RegexMatches("STARTCAPANDHASOPPOS", Pattern.compile("^"+FC.CAPS+".+'("+FC.CAPS+"|"+FC.LOW+")+")),
+        new RegexMatches("STARTCAPANDHASOPPOS", Pattern.compile("^"+FC.CAPS+".+"+FC.QUOTE+"("+FC.ALPHA+"+)")),
                 //   Has bracket
-        new RegexMatches("HASBRACKET", Pattern.compile ("[()]")),
+        new RegexMatches("HASBRACKETORCOMMA", Pattern.compile ("[),]")),
         new InBracket("INBRACKET",true) ,
         //Sadece sayılardan mı oluşuyor?
-        new RegexMatches("ALLDIGITS", Pattern.compile (FC.NUM)),
-        new RegexMatches("HASDIGIT", Pattern.compile(".*"+FC.NUM+".*")),
 
-                new RegexMatches("INITCAP", Pattern.compile (FC.CAPS+".*")),
-                new RegexMatches("CAPITALIZED", Pattern.compile (FC.CAPS+FC.LOW+"*")),
-                new RegexMatches("ALLCAPS", Pattern.compile (FC.CAPS+"+")),
-                new RegexMatches("MIXEDCAPS", Pattern.compile (FC.CAPS+FC.LOW+"+"+FC.CAPS+FC.ALPHA+"*")),
-                new RegexMatches("CONTAINSDIGITS", Pattern.compile (".*"+FC.NUM+".*")),
-                new RegexMatches("ALPHNUMERIC", Pattern.compile (FC.ALPHANUM+"+")),
+        //new RegexMatches("ALLDIGITS", Pattern.compile (FC.NUM)),
+        //new RegexMatches("HASDIGIT", Pattern.compile(".*"+FC.NUM+".*")),
 
-                new RegexMatches("ENDSINDOT", Pattern.compile ("[^\\.]+.*\\.")),
-                new RegexMatches("CONTAINSDASH", Pattern.compile(FC.ALPHANUM+"+-"+FC.ALPHANUM+"*")),
-                new RegexMatches("ACRO", Pattern.compile ("[A-Z][A-Z\\.]*\\.[A-Z\\.]*")),
+        //new RegexMatches("INITCAP", Pattern.compile (FC.CAPS+".*")),
+        //new RegexMatches("CAPITALIZED", Pattern.compile (FC.CAPS+FC.LOW+"*")),
+        //new RegexMatches("ALLCAPS", Pattern.compile (FC.CAPS+"+")),
+        //new RegexMatches("MIXEDCAPS", Pattern.compile (FC.CAPS+FC.LOW+"+"+FC.CAPS+FC.ALPHA+"*")),
+        //new RegexMatches("CONTAINSDIGITS", Pattern.compile (".*"+FC.NUM+".*")),
+        //new RegexMatches("ALPHNUMERIC", Pattern.compile (FC.ALPHANUM+"+")),
 
-                new RegexMatches("CAPLETTER", Pattern.compile ("[A-Z]")),
-                new RegexMatches("PUNC", Pattern.compile (FC.PUNT)),
-                new RegexMatches("QUOTE", Pattern.compile (FC.QUOTE)),
-                new RegexMatches("STARTDASH", Pattern.compile ("-.*")),
-                new RegexMatches("ENDDASH", Pattern.compile (".*-")),
-                new RegexMatches("FORWARDSLASH", Pattern.compile ("/")),
-                new RegexMatches("ISBRACKET", Pattern.compile ("[()]")),
-               new RegexMatches("PUNCTUATION", Pattern.compile(".*[,.;:?!-+].*")),
-                new RegexMatches("ISPUNCT", Pattern.compile("[`~!@#$%^&*()-=_+\\[\\]\\\\{}|;\':\\\",./<>?]+")),
-              new RegexMatches("HAS_QUOTE", Pattern.compile(".*'.*")),
-                new RegexMatches("HAS_SLASH", Pattern.compile(".*/.*")),
-                new RegexMatches("START_MINUS", Pattern.compile("-.*")),
+                //TODO buraya bak
+      new RegexMatches("ENDSINDOT", Pattern.compile ("[^\\.]+.*\\.")),
+      //new RegexMatches("CONTAINSDASH", Pattern.compile(FC.ALPHANUM+"+-"+FC.ALPHANUM+"*")),
+      //new RegexMatches("ACRO", Pattern.compile ("[A-Z][A-Z\\.]*\\.[A-Z\\.]*")),
+
+      //new RegexMatches("CAPLETTER", Pattern.compile ("[A-Z]")),
+      new RegexMatches("PUNC", Pattern.compile (FC.PUNT)),
+      new RegexMatches("DECIMALQUOTE", Pattern.compile ("^"+FC.NUM+".+"+FC.QUOTE+"("+FC.LOW+"+)")),
+      new RegexMatches("STARTDASH", Pattern.compile ("-.*")),
+      //new RegexMatches("ENDDASH", Pattern.compile (".*-")),
+      //new RegexMatches("FORWARDSLASH", Pattern.compile ("/")),
+      //new RegexMatches("ISBRACKET", Pattern.compile ("[()]")),
+      //new RegexMatches("PUNCTUATION", Pattern.compile(".*[,.;:?!-+].*")),
+      //new RegexMatches("ISPUNCT", Pattern.compile("[`~!@#$%^&*()-=_+\\[\\]\\\\{}|;\':\\\",./<>?]+")),
+      //new RegexMatches("HAS_QUOTE", Pattern.compile(".*'.*")),
+      new RegexMatches("HAS_SLASH", Pattern.compile(".*/.*")),
+      //new RegexMatches("START_MINUS", Pattern.compile("-.*")),
                   /* Make the word a feature. */
 
 
-                new TokenSequenceLowercase(),
-                new TokenText("WORD="),
+       new TokenSequenceLowercase(),
+       new TokenText("WORD="),
 
-                new TokenTextCharSuffix("SUFFIX2=",2),
-                new TokenTextCharSuffix("SUFFIX3=",3),
-                new TokenTextCharSuffix("SUFFIX4=",4),
-                new TokenTextCharPrefix("PREFIX2=",2),
-                new TokenTextCharPrefix("PREFIX3=",3),
-                new TokenTextCharPrefix("PREFIX4=",4),
-                new TokenTextCharNGrams("CHARNGRAM=", new int[] {2,3,4}),
+       new TokenTextCharSuffix("SUFFIX2=",2),
+       new TokenTextCharSuffix("SUFFIX3=",3),
+       new TokenTextCharSuffix("SUFFIX4=",4),
+       new TokenTextCharPrefix("PREFIX2=",2),
+       new TokenTextCharPrefix("PREFIX3=",3),
+       new TokenTextCharPrefix("PREFIX4=",4),
+       new TokenTextCharNGrams("CHARNGRAM=", new int[] {2,3,4}),
 
                   /* FeatureInWindow features. */
                 //Burayı duşun
                 /*
                 new FeaturesInWindow("WINDOW=",-5,5,
                 Pattern.compile("WORD=.*|SUFFIX.*|PREFIX.*|DC=.*|WC=.*|BWC=.*|[A-Z]+"),true), */
-                new FeaturesInWindow("WINDOW=",-5,5,
-                        Pattern.compile("WORD=.*|SUFFIX.*|PREFIX.*|DC=.*|WC=.*|BWC=.*"),true),
+       new FeaturesInWindow("WINDOW=",-5,5,
+       Pattern.compile("WORD=.*|SUFFIX.*|PREFIX.*|DC=.*|WC=.*|DOGUMLABEL|OLUMLABEL"),true),
 
         /*
         int[][] conjunctions = new int[2][];

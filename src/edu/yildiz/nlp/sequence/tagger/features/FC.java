@@ -16,6 +16,6 @@ public class FC {
   public static final String ALPHANUM = "[A-Za-z0-9süçğöÜİÇĞÖ]";
   public static final String NUM = "[0-9]";
   public static final String PUNT = "[,\\.;:?!]";
-  public static final String QUOTE = "[\"`']";
+  public static final String QUOTE = "[`']";
 
 }

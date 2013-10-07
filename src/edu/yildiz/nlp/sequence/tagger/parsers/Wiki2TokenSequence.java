@@ -40,53 +40,56 @@ import edu.yildiz.nlp.sequence.tagger.features.FC;
                 if (features.length>0)
                 {
                     String word = features[0];
-                if (word.contains("<ENAMEX_TYPE="))
-                {
-                    try{
-                        //TODO Canan Deneme burayı mutlaka sil!!!!!!!!!!!!!111
-
-                        if (!word.contains("<ENAMEX_TYPE=\"p_dogum_yer\">"))
-                        {
-                            label = word.substring(0,word.indexOf("\">")+2);
-                            if (!label.equals("<ENAMEX_TYPE=\"p_dogum_tar\">") && !label.contains("<ENAMEX_TYPE=\"p_olum_tar\">"))
-                            {
-                                String hoop="goop";
-                            }
-                        } else   { label =  "<ENAMEX_TYPE=\"O\">";}
-
-                    word=word.substring(word.indexOf("\">")+2,word.indexOf("</"));
-                    }catch(Exception ex)
+                    if (word.contains("<ENAMEX_TYPE="))
                     {
-                        errorCount++;
-                        System.out.println("ERROR-"+line);
-                        System.err.println(ex.getStackTrace());
-                        continue;
+                        try{
+                            label = word.substring(0,word.indexOf("\">")+2);
+                            word=word.substring(word.indexOf("\">")+2,word.indexOf("</"));
+                        }catch(Exception ex)
+                        {
+                            errorCount++;
+                            System.out.println("ERROR-"+line);
+                            continue;
+                        }
+                    } else
+                    {
+                        label =  "<ENAMEX_TYPE=\"O\">";
                     }
-                } else
-                {
-                   label =  "<ENAMEX_TYPE=\"O\">";
-                }
+
 
                 String wc = word;
                 String bwc = word;
                 String dc=word;
+                String dogum=word;
+                String olum= word;
                 tokenLines[i]=word;
                 Token token = new Token(word);
                 token.setFeatureValue("W=" + word, 1);
                 //tokenLines[i]=originWord;
                 //                      transform
-                dc = doDigitalCollapse(word);
+                dc = doDigitalCollapse(dc);
                 if (dc!=null)
                 token.setFeatureValue("DC=" + dc, 1);
 
                 wc = doWordClass(wc);
                 token.setFeatureValue("WC=" + wc, 1);
 
-                bwc = doBriefWordClass(bwc);
-                token.setFeatureValue("BWC=" + bwc, 1);
+               // bwc = doBriefWordClass(bwc);
+                //token.setFeatureValue("BWC=" + bwc, 1);
 
-                String ld = word.toLowerCase();
-                token.setFeatureValue("LC=" + ld, 1);
+               // String ld = word.toLowerCase();
+              //  token.setFeatureValue("LC=" + ld, 1);
+
+                    dogum=    doDogumFeature(dogum);
+                    if (dogum!=null)
+                    {
+                        token.setFeatureValue("DOGUMLABEL", 2);
+                    }
+                    olum =    doOlumFeature(olum);
+                    if (olum!=null)
+                    {
+                        token.setFeatureValue("OLUMLABEL", 2);
+                    }
 
                 //                      finish one token line
                 if (isTargetProcessing())
@@ -108,7 +111,23 @@ import edu.yildiz.nlp.sequence.tagger.features.FC;
             return carrier;
         }
 
-        private String doBriefWordClass(String bwc) {
+    private String doDogumFeature(String dogum) {
+        if (dogum.contains("(d."))
+        {
+            return "DOGUMLABEL";
+        }
+
+        return null;
+    }
+    private String doOlumFeature(String olum) {
+        if (olum.contains("ö.")||olum.contains("o."))
+        {
+            return "OLUMLABEL";
+        }
+
+        return null;
+    }
+    private String doBriefWordClass(String bwc) {
             bwc = bwc.replaceAll("["+ FC.CAPS+"]+", "A");
             bwc = bwc.replaceAll("["+FC.LOW+"]+", "a");
             bwc = bwc.replaceAll("["+FC.NUM+"]+", "0");
@@ -127,9 +146,9 @@ import edu.yildiz.nlp.sequence.tagger.features.FC;
 
         private String doDigitalCollapse(String word) {
 
-            if (word.matches("(19|20)\\d\\d"))
+            if (word.matches("(18|19|20)\\d\\d"))
                 return "<YEAR>";
-            else if (word.matches("(19|20)\\d\\ds"))
+           /* else if (word.matches("(19|20)\\d\\ds"))
                 return  "<YEARDECADE>";
             else if (word.matches("(19|20)\\d\\d-\\d+"))
                 return "<YEARSPAN>";
@@ -141,7 +160,7 @@ import edu.yildiz.nlp.sequence.tagger.features.FC;
                 return "<DATELINEDATE>";
             else if (word.matches("(19|20)\\d\\d-\\d\\d-\\d\\d"))
                 return "<DATELINEDATE>";
-
+             */
             return null;
 
         }
