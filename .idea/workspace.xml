@@ -7,33 +7,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3c64d3f8-1ed5-47a9-ad08-e3293b405550" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yedek/sil/nouncrfDYer" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yedek/sil/nouncrfDate" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yedek/sil/nouncrfDogumYer" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yedek/nouncrfP30.09.2013" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yedek/nouncrfPTum" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yedek/sil/nouncrfP" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yedek/sil/nouncrfSon" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yedek/sil/nouncrfTum" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yedek/sil/nouncrfxx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yedek/out:).txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yedek/sil/outBasarili.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yedek/sil/outDate.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yedek/sil/outDogumYer.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yedek/outSonBasarili.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yedek/outTum.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yedek/sil/sample" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yedek/sil/test_original.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yedek/sil/test_out.txt" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nouncrfP" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test_original.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test_out.txt" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="sequence-tagger.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="3c64d3f8-1ed5-47a9-ad08-e3293b405550" time="1381145332745" ignored="false" />
+    <file path="/Dummy.txt" changelist="3c64d3f8-1ed5-47a9-ad08-e3293b405550" time="1381145676596" ignored="false" />
     <file path="/fragment.java" changelist="3c64d3f8-1ed5-47a9-ad08-e3293b405550" time="1380802738285" ignored="false" />
     <file path="$PROJECT_DIR$/../WikiInfoboxExtractor/src/main/java/crf/Tagger.java" changelist="3c64d3f8-1ed5-47a9-ad08-e3293b405550" time="1378721807279" ignored="false" />
     <file path="/Tagger.java" changelist="3c64d3f8-1ed5-47a9-ad08-e3293b405550" time="1378720564163" ignored="false" />
@@ -517,7 +495,7 @@
       <file leaf-file-name="out.txt" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/out.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="26" selection-start="409" selection-end="409" vertical-scroll-proportion="0.2747253">
+            <state line="15" column="26" selection-start="409" selection-end="409" vertical-scroll-proportion="0.35545024">
               <folding />
             </state>
           </provider>
@@ -543,7 +521,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="1.0" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
   </component>
@@ -1096,14 +1074,18 @@
       <created>1381145337837</created>
       <updated>1381145337837</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="07.10.2013 out.txt kıvamında">
+      <created>1381145692898</created>
+      <updated>1381145692898</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="1920" height="1002" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21112372" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -1116,11 +1098,11 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3280363" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3280363" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24866596" sideWeight="0.17593643" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24866596" sideWeight="0.138479" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.11102107" sideWeight="0.6709887" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24866596" sideWeight="0.81611806" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24866596" sideWeight="0.64245176" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23269013" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="92" y="100" width="1092" height="576" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1303,7 +1285,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/out.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="26" selection-start="409" selection-end="409" vertical-scroll-proportion="0.2747253">
+        <state line="15" column="26" selection-start="409" selection-end="409" vertical-scroll-proportion="0.35545024">
           <folding />
         </state>
       </provider>
