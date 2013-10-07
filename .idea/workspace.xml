@@ -7,14 +7,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3c64d3f8-1ed5-47a9-ad08-e3293b405550" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/features/FC.java" afterPath="$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/features/FC.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/features/InfoFeatureFactory.java" afterPath="$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/features/InfoFeatureFactory.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/parsers/Wiki2TokenSequence.java" afterPath="$PROJECT_DIR$/src/edu/yildiz/nlp/sequence/tagger/parsers/Wiki2TokenSequence.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="sequence-tagger.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="3c64d3f8-1ed5-47a9-ad08-e3293b405550" time="1381145808643" ignored="false" />
+    <file path="/Dummy.txt" changelist="3c64d3f8-1ed5-47a9-ad08-e3293b405550" time="1381154226243" ignored="false" />
     <file path="/fragment.java" changelist="3c64d3f8-1ed5-47a9-ad08-e3293b405550" time="1380802738285" ignored="false" />
     <file path="$PROJECT_DIR$/../WikiInfoboxExtractor/src/main/java/crf/Tagger.java" changelist="3c64d3f8-1ed5-47a9-ad08-e3293b405550" time="1378721807279" ignored="false" />
     <file path="/Tagger.java" changelist="3c64d3f8-1ed5-47a9-ad08-e3293b405550" time="1378720564163" ignored="false" />
@@ -1115,7 +1112,11 @@
       <created>1381145813874</created>
       <updated>1381145813874</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="07.10.2013 feature düzenleme">
+      <created>1381154233712</created>
+      <updated>1381154233712</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1187,7 +1188,7 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="07.10.2013 new branch" />
+    <option name="LAST_COMMIT_MESSAGE" value="07.10.2013 feature düzenleme" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -1210,6 +1211,7 @@
     <MESSAGE value="01.10.2013 dateler de tamam" />
     <MESSAGE value="07.10.2013 out.txt kıvamında" />
     <MESSAGE value="07.10.2013 new branch" />
+    <MESSAGE value="07.10.2013 feature düzenleme" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
