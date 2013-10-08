@@ -92,9 +92,10 @@ public class InfoFeatureFactory extends CompositeFeatureFactory {
                 /*
                 new FeaturesInWindow("WINDOW=",-5,5,
                 Pattern.compile("WORD=.*|SUFFIX.*|PREFIX.*|DC=.*|WC=.*|BWC=.*|[A-Z]+"),true), */
+       new FeaturesInWindow("WINDOW=",-3,3,
+       Pattern.compile("WORD=.*|SUFFIX.*|PREFIX.*|DC=.*|WC=.*"),true),
        new FeaturesInWindow("WINDOW=",-5,5,
-       Pattern.compile("WORD=.*|SUFFIX.*|PREFIX.*|DC=.*|WC=.*|DOGUMLABEL|OLUMLABEL"),true),
-
+                        Pattern.compile("DOGUMLABEL|OLUMLABEL"),true),
         /*
         int[][] conjunctions = new int[2][];
         conjunctions[0] = new int[] { -2,-1 };
